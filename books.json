@@ -1,0 +1,6676 @@
+[
+    {
+        "id": 1,
+        "titlu": "1001 de nopti - Povestile Seherezadei vol 1- 15",
+        "editura": "Daffi\u2019s books",
+        "locatie": "Cutia cu mos craciun"
+    },
+    {
+        "id": 2,
+        "titlu": "Fii si indragostiti vol 1-2",
+        "autor": "D. H. Lawrence",
+        "colectie": "Colectiile Cotidianul",
+        "editura": "Univers",
+        "locatie": "Cutia cu mos craciun"
+    },
+    {
+        "id": 3,
+        "titlu": "Cartea cu himere",
+        "colectie": "Colectiile Cotidianul",
+        "editura": "Univers",
+        "locatie": "Cutia cu mos craciun"
+    },
+    {
+        "id": 4,
+        "titlu": "Peripetiile bunului parinte Mockinpott",
+        "autor": "Hisashi Inoue",
+        "colectie": "Colectiile Cotidianul",
+        "editura": "Univers",
+        "locatie": "Cutia cu mos craciun"
+    },
+    {
+        "id": 5,
+        "titlu": "Ispita si cele 10 porunci",
+        "colectie": "Colectiile Cotidianul",
+        "editura": "Univers",
+        "locatie": "Cutia cu mos craciun"
+    },
+    {
+        "id": 6,
+        "titlu": "Regele",
+        "autor": "Donald Barthelme",
+        "colectie": "Colectiile Cotidianul",
+        "editura": "Univers",
+        "locatie": "Cutia cu mos craciun"
+    },
+    {
+        "id": 7,
+        "titlu": "Fructul amar",
+        "autor": "Achmat Dangor",
+        "colectie": "Colectiile Cotidianul",
+        "editura": "Univers",
+        "locatie": "Cutia cu mos craciun"
+    },
+    {
+        "id": 8,
+        "titlu": "Jurnalul unui batran nebun",
+        "autor": "Junichiro Tanizaki",
+        "colectie": "Colectiile Cotidianul",
+        "editura": "Univers",
+        "locatie": "Cutia cu mos craciun"
+    },
+    {
+        "id": 9,
+        "titlu": "Chatterton",
+        "autor": "Peter Ackroyd",
+        "colectie": "Colectiile Cotidianul",
+        "editura": "Univers",
+        "locatie": "Cutia cu mos craciun"
+    },
+    {
+        "id": 10,
+        "titlu": "Trilogia New York-ului",
+        "autor": "Paul Auster",
+        "colectie": "Colectiile Cotidianul",
+        "editura": "Univers",
+        "locatie": "Cutia cu mos craciun"
+    },
+    {
+        "id": 11,
+        "titlu": "Gratuit",
+        "autor": "Chris Anderson",
+        "editura": "Curtea Veche",
+        "locatie": "Cutie 2"
+    },
+    {
+        "id": 12,
+        "titlu": "Dieta cu Vin",
+        "autor": "Roger Corder",
+        "editura": "Curtea veche",
+        "locatie": "Cutie 2"
+    },
+    {
+        "id": 13,
+        "titlu": "De la Pegas la El-Zorab",
+        "autor": "Aristide N. Popescu",
+        "editura": "Albatros",
+        "locatie": "Cutie 2"
+    },
+    {
+        "id": 14,
+        "titlu": "Pitici si uriasi",
+        "autor": "Aristide N. Popescu",
+        "editura": "Albatros",
+        "locatie": "Cutie 2"
+    },
+    {
+        "id": 15,
+        "titlu": "Regulile domnului Jones pentru barbatul modern",
+        "autor": "Dylan Jones",
+        "editura": "Curtea veche",
+        "locatie": "Cutie 2"
+    },
+    {
+        "id": 16,
+        "titlu": "Hartile prevestitoare",
+        "autor": "Michael A. Stackpole",
+        "colectie": "Marile descoperiri vol 2",
+        "editura": "Nautilus Fantasy",
+        "locatie": "Cutie 2"
+    },
+    {
+        "id": 17,
+        "titlu": "Lumea noua",
+        "autor": "Michael A. Stackpole",
+        "colectie": "Marile descoperiri vol 3",
+        "editura": "Nautilus Fantasy",
+        "locatie": "Cutie 2"
+    },
+    {
+        "id": 18,
+        "titlu": "Legendele si miturile Greciei Antice",
+        "autor": "N. A. Kun",
+        "editura": "Editura Stiintifica",
+        "locatie": "Cutie 2"
+    },
+    {
+        "id": 19,
+        "titlu": "Castelul groazei",
+        "autor": "Eden Phillpotts",
+        "editura": "Editura Sagetatorului",
+        "locatie": "Cutie 2"
+    },
+    {
+        "id": 20,
+        "titlu": "Familia Puhoi - La scoala",
+        "autor": "Colin Thompson",
+        "colectie": "Familia Puhoi vol 2",
+        "editura": "Corint Junior",
+        "locatie": "Cutie 2"
+    },
+    {
+        "id": 21,
+        "titlu": "Legendele si miturile Greciei Antice",
+        "autor": "N. A. Kun",
+        "editura": "Editura Stiintifica",
+        "locatie": "Cutie 2"
+    },
+    {
+        "id": 22,
+        "titlu": "Circul in fata casei",
+        "autor": "Adrian Sangeorzan",
+        "editura": "Curtea veche",
+        "locatie": "Cutie 2"
+    },
+    {
+        "id": 23,
+        "titlu": "Lecturi filosofice",
+        "autor": "Grigore Traian Pop",
+        "editura": "Scrisul romanesc",
+        "locatie": "Cutie 2"
+    },
+    {
+        "id": 24,
+        "titlu": "Omul genial",
+        "autor": "Hermann Turck",
+        "colectie": "Legendary Books",
+        "editura": "Editura Gramar",
+        "locatie": "Cutie 2"
+    },
+    {
+        "id": 25,
+        "titlu": "Cupa gladiatorului",
+        "autor": "Lev Kassil",
+        "editura": "Editura Tineretului",
+        "locatie": "Cutie 2"
+    },
+    {
+        "id": 26,
+        "titlu": "Piratii din Pompei",
+        "autor": "Caroline Lawrence",
+        "colectie": "Mistere romane vol 3 (?)",
+        "editura": "Corint Junior",
+        "locatie": "Cutie 2"
+    },
+    {
+        "id": 27,
+        "titlu": "Capitalism moral",
+        "autor": "Stephen Young",
+        "colectie": "Legendary Books",
+        "editura": "Curtea veche",
+        "locatie": "Cutie 2"
+    },
+    {
+        "id": 28,
+        "titlu": "13,99 lei",
+        "autor": "Frederic Beigbeder",
+        "editura": "Trei",
+        "locatie": "Cutie 2"
+    },
+    {
+        "id": 29,
+        "titlu": "29,9 ron",
+        "autor": "Frederic Beigbeder",
+        "editura": "Pandora",
+        "locatie": "Cutie 2"
+    },
+    {
+        "id": 30,
+        "titlu": "Aventurile lui Arthur Gordon Pym",
+        "autor": "Edgar Allan Poe",
+        "editura": "Corint",
+        "locatie": "Cutie 2"
+    },
+    {
+        "id": 31,
+        "titlu": "Orasul Noua in flacari",
+        "autor": "J Patrick Black",
+        "colectie": "Ciocnirea Taramurilor vol 1",
+        "editura": "Nautilus",
+        "locatie": "Cutie 2"
+    },
+    {
+        "id": 32,
+        "titlu": "William Wenton si Hotul de Luridium",
+        "autor": "Bobbie Peers",
+        "colectie": "William Wenton vol 1",
+        "editura": "Nemi",
+        "locatie": "Cutie 2"
+    },
+    {
+        "id": 33,
+        "titlu": "William Wenton si Portalul de Criptal",
+        "autor": "Bobbie Peers",
+        "colectie": "William Wenton vol 2",
+        "editura": "Nemi",
+        "locatie": "Cutie 2"
+    },
+    {
+        "id": 34,
+        "titlu": "Luna noua",
+        "autor": "Ian McDonald",
+        "colectie": "Luna vol 1",
+        "editura": "Nautilus",
+        "locatie": "Cutie 2"
+    },
+    {
+        "id": 35,
+        "titlu": "Robogeneza",
+        "autor": "Daniel H. Wilson",
+        "colectie": "Continuarea Robopocalipsa",
+        "editura": "Nemi",
+        "locatie": "Cutie 2"
+    },
+    {
+        "id": 36,
+        "titlu": "Al 8-lea pasager",
+        "autor": "Alan Dean Foster",
+        "colectie": "Aliens vol 1",
+        "editura": "SF Cristian",
+        "locatie": "Cutie 2"
+    },
+    {
+        "id": 37,
+        "titlu": "Misiune de pedeapsa",
+        "autor": "Alan Dean Foster",
+        "colectie": "Aliens vol 2",
+        "editura": "SF Cristian",
+        "locatie": "Cutie 2"
+    },
+    {
+        "id": 38,
+        "titlu": "Obama biografie",
+        "autor": "Garen Thomas",
+        "editura": "Niculescu",
+        "locatie": "Cutie 2"
+    },
+    {
+        "id": 39,
+        "titlu": "Printre morti",
+        "autor": "Michael Tolkin",
+        "editura": "RAO",
+        "locatie": "Cutie 2"
+    },
+    {
+        "id": 40,
+        "titlu": "Gregor pamanteanul",
+        "autor": "Suzanne Collins",
+        "colectie": "Cronici din subpamant vol 1",
+        "editura": "Nemi",
+        "locatie": "Cutie 2"
+    },
+    {
+        "id": 41,
+        "titlu": "Jumatatea pierduta",
+        "autor": "Sally Green",
+        "colectie": "Half life vol 3",
+        "editura": "Trei",
+        "locatie": "Cutie 2"
+    },
+    {
+        "id": 42,
+        "titlu": "Orasul companiei",
+        "autor": "Madeline Ashby",
+        "editura": "Armada",
+        "locatie": "Cutie 2"
+    },
+    {
+        "id": 43,
+        "titlu": "Un mormant in Gaza",
+        "autor": "Matt Beynon Rees",
+        "editura": "Niculescu",
+        "locatie": "Cutie 2"
+    },
+    {
+        "id": 44,
+        "titlu": "Sobolanii",
+        "autor": "James Herbert",
+        "editura": "Nemira",
+        "locatie": "Cutie 2"
+    },
+    {
+        "id": 45,
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 46,
+        "titlu": "Placeri interzise",
+        "autor": "Laurell K. Hamilton",
+        "colectie": "Anita Blake vol 1",
+        "editura": "Tritonic",
+        "locatie": "Cutie 2"
+    },
+    {
+        "id": 47,
+        "titlu": "Cadavrul care rade",
+        "autor": "Laurell K. Hamilton",
+        "colectie": "Anita Blake vol 2",
+        "editura": "Tritonic",
+        "locatie": "Cutie 2"
+    },
+    {
+        "id": 48,
+        "titlu": "The world according to Clarkson vol 1",
+        "colectie": "The world according to Clarkson vol 1",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 49,
+        "titlu": "And Another Thing",
+        "colectie": "The world according to Clarkson vol 2",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 50,
+        "titlu": "For crying out loud!",
+        "colectie": "The world according to Clarkson vol 3",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 51,
+        "titlu": "How hard can it be?",
+        "colectie": "The world according to Clarkson vol 4",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 52,
+        "titlu": "Is it really too much to ask?",
+        "colectie": "The world according to Clarkson vol 5",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 53,
+        "titlu": "As I was saying",
+        "colectie": "The world according to Clarkson vol 6",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 54,
+        "titlu": "\u201848",
+        "autor": "James Herbert",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 55,
+        "titlu": "Awful Auntie",
+        "autor": "David Walliams",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 56,
+        "titlu": "The magic cottage",
+        "autor": "James Herbert",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 57,
+        "titlu": "Vampire destiny trilogy The lake of souls  |  Lord of the shadows  |  Sons of destiny",
+        "autor": "Darren Shan",
+        "colectie": "Darren Shan vol 10, vol 11, vol 12",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 58,
+        "titlu": "Killers of the dawn",
+        "autor": "Darren Shan",
+        "colectie": "Darren Shan vol 9",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 59,
+        "titlu": "Lord of the shadows",
+        "autor": "Darren Shan",
+        "colectie": "Darren Shan vol 11",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 60,
+        "titlu": "Gangsta Granny",
+        "autor": "David Walliams",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 61,
+        "titlu": "The boy in the dress",
+        "autor": "David Walliams",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 62,
+        "titlu": "Revenge of the living dummy",
+        "autor": "R. L. Stine",
+        "colectie": "Goosebumps HorrorLand vol 1",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 63,
+        "titlu": "Help! we have strange powers!",
+        "autor": "R. L. Stine",
+        "colectie": "Goosebumps HorrorLand vol 10",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 64,
+        "titlu": "Six animal adventures",
+        "autor": "Michael Morpurgo",
+        "colectie": "Mudpuddle farm",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 65,
+        "titlu": "Why is SNOT green?",
+        "autor": "Glenn Murphy",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 66,
+        "titlu": "Stuff that scares your pants off!",
+        "autor": "Glenn Murphy",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 67,
+        "titlu": "Omul invizibil  |  Razboiul lumilor",
+        "autor": "H. G. Wells",
+        "colectie": "Biblioteca Adevarul vol 75",
+        "editura": "Adevarul",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 68,
+        "titlu": "Catherine de Medicis",
+        "autor": "Honore de Balzac",
+        "colectie": "Biblioteca Adevarul vol 81",
+        "editura": "Adevarul",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 69,
+        "titlu": "Cianura pentru un suras | Buna seara, Melania!",
+        "autor": "Rodica Ojog-Brasoveanu",
+        "colectie": "Biblioteca Adevarul vol 39",
+        "editura": "Adevarul",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 70,
+        "titlu": "Circul Fantasia",
+        "autor": "Margaret Mahy",
+        "editura": "Corint Junior",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 71,
+        "titlu": "Gastronomie si placere",
+        "autor": "Michel Gillain",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 72,
+        "titlu": "Sariti de pe fix!",
+        "autor": "Feldhaus",
+        "editura": "Corint Junior",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 73,
+        "titlu": "Marea carte a raului",
+        "autor": "Sam Jordison",
+        "editura": "Niculescu",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 74,
+        "titlu": "Oul sarpelui",
+        "autor": "J. Fitzgerald McCurdy",
+        "editura": "Corint Junior",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 75,
+        "titlu": "Capcana",
+        "autor": "Sarah Wray",
+        "editura": "Corint Junior",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 76,
+        "titlu": "Cocosatul vol 1 Tineretea",
+        "autor": "Paul Feval",
+        "colectie": "Cocosatul vol 1",
+        "editura": "Dexon",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 77,
+        "titlu": "Cocosatul vol 2 Lagardere",
+        "autor": "Paul Feval",
+        "colectie": "Cocosatul vol 2",
+        "editura": "Dexon",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 78,
+        "titlu": "Doamna Bovary",
+        "autor": "Gustave Flaubert",
+        "editura": "Moldova",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 79,
+        "titlu": "Comoara din insula",
+        "autor": "Robert Louis Stevenson",
+        "editura": "Niculescu",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 80,
+        "titlu": "Secretul Fracurile Negre",
+        "autor": "Paul Feval",
+        "colectie": "Fracurile Negre",
+        "editura": "Elis",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 81,
+        "titlu": "Stea dubla",
+        "autor": "Robert A. Heinlein",
+        "editura": "Cristian",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 82,
+        "titlu": "Infanteria stelara",
+        "autor": "Robert A. Heinlein",
+        "editura": "Cristian",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 83,
+        "titlu": "Robocop",
+        "autor": "El Naha",
+        "editura": "Andora",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 84,
+        "titlu": "Scarabeul in Musuroi",
+        "autor": "A&B Strugatki",
+        "editura": "Nemira",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 85,
+        "titlu": "Manuitorii de zombi",
+        "autor": "Robert A. Heinlein",
+        "editura": "Antet",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 86,
+        "titlu": "War Horse",
+        "autor": "Michael Morpurgo",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 87,
+        "titlu": "Straniul caz al dr. Jekyll si al lui mr Hyde",
+        "autor": "Robert Louis Stevenson",
+        "editura": "Dacia",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 88,
+        "titlu": "Secretul epavei",
+        "autor": "Robert Louis Stevenson",
+        "editura": "Eden",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 89,
+        "titlu": "Stenodactilografie",
+        "autor": "Aurel Boia",
+        "colectie": "Manual",
+        "editura": "Ministerul invatamantului",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 90,
+        "titlu": "Stenodactilografie",
+        "autor": "Aurel Boia",
+        "editura": "Editura Didactica si Pedagogica",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 91,
+        "titlu": "Intamplari din Gastropolis",
+        "colectie": "Colectiile cotidianului",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 92,
+        "titlu": "Viata si aventurile lui Mos Craciun  |  Vrajitorul din Oz",
+        "autor": "Frank L. Baum",
+        "colectie": "Colectiile cotidianului",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 93,
+        "titlu": "Printre altele, m-am apucat de fumat",
+        "autor": "Aiobheann Sweeney",
+        "colectie": "Colectiile cotidianului",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 94,
+        "titlu": "Femei in tara barbatilor",
+        "colectie": "Colectiile cotidianului",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 95,
+        "titlu": "Arca lui Noe, Ulise & co.",
+        "colectie": "Colectiile cotidianului",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 96,
+        "titlu": "Arta de a nu scrie un roman",
+        "autor": "Jerome K. Jerome",
+        "colectie": "Colectiile cotidianului",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 97,
+        "titlu": "Toti oamenii sunt muritori",
+        "autor": "Simone de Beauvoir",
+        "colectie": "Colectiile cotidianului",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 98,
+        "titlu": "Umor cu premeditare",
+        "colectie": "Colectiile cotidianului",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 99,
+        "titlu": "Tropicul cancerului",
+        "autor": "Henry Miller",
+        "colectie": "Colectiile cotidianului",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 100,
+        "titlu": "Soarele gol",
+        "autor": "Isaac Asimov",
+        "colectie": "Colectiile cotidianului | Robotii vol 3",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 101,
+        "titlu": "Blues pentru o pisica neagra",
+        "autor": "Boris Vian",
+        "colectie": "Colectiile cotidianului",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 102,
+        "titlu": "Alice in tara minunilor  |  Alice in tara din Oglinda",
+        "autor": "Lewis Carroll",
+        "colectie": "Colectiile cotidianului",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 103,
+        "titlu": "Peter Pan",
+        "autor": "J. M. Barrie",
+        "colectie": "Peter Pan vol 1",
+        "editura": "Jurnalul National",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 104,
+        "titlu": "Peter Pan in Gradina Kensington",
+        "autor": "J. M. Barrie",
+        "colectie": "Peter pan vol 2",
+        "editura": "Jurnalul National",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 105,
+        "titlu": "Mana stanga a intunericului",
+        "autor": "Ursula K. le Guin",
+        "editura": "Nemira",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 106,
+        "titlu": "Ziua independentei",
+        "autor": "Dean Devlin, Roland Emmerich, Stephen Moistad",
+        "editura": "Fahrenheit",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 107,
+        "titlu": "O piatra pe cer",
+        "autor": "Isaac Asimov",
+        "colectie": "Imperiul vol 1",
+        "editura": "Univers",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 108,
+        "titlu": "Dictionar de mitologie",
+        "autor": "George Lazarescu",
+        "editura": "Ion Creanga",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 109,
+        "titlu": "Hiperboloidul inginerului Garin",
+        "autor": "A.N. Tolstoi",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 110,
+        "titlu": "5 povesti cu cowboy",
+        "autor": "O, Henry, Stephen Crane, John Graves, Petru Popescu",
+        "editura": "Albatros",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 111,
+        "titlu": "Cugetari engleze",
+        "colectie": "Colectia Cogito",
+        "editura": "Albatros",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 112,
+        "titlu": "Spicuiri din intelepciunea spaniola",
+        "colectie": "Colectia Cogito",
+        "editura": "Albatros",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 113,
+        "titlu": "Balzac Maxime si cugetari",
+        "colectie": "Colectia Cogito",
+        "editura": "Albatros",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 114,
+        "titlu": "Maxime, sentimente si aforisme din egiptul antic",
+        "colectie": "Colectia Cogito",
+        "editura": "Albatros",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 115,
+        "titlu": "Proverbe si cugetari bengaleze",
+        "colectie": "Colectia Cogito",
+        "editura": "Albatros",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 116,
+        "titlu": "Montaigne aforisme",
+        "colectie": "Colectia Cogito",
+        "editura": "Albatros",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 117,
+        "titlu": "Munca reflectata in proverbele lumii",
+        "colectie": "Colectia Cogito",
+        "editura": "Albatros",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 118,
+        "titlu": "Maxime si cugetari din folclorul si literatura Rusa si Sovietica",
+        "colectie": "Colectia Cogito",
+        "editura": "Albatros",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 119,
+        "titlu": "Proverbe si cugetari despre dragoste",
+        "colectie": "Colectia Cogito",
+        "editura": "Albatros",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 120,
+        "titlu": "Victor Hugo cugetari",
+        "colectie": "Colectia Cogito",
+        "editura": "Albatros",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 121,
+        "titlu": "Proverbe si cugetari italiene",
+        "colectie": "Colectia Cogito",
+        "editura": "Albatros",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 122,
+        "titlu": "Cugetari franceze",
+        "colectie": "Colectia Cogito",
+        "editura": "Albatros",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 123,
+        "titlu": "Cugetari persane",
+        "colectie": "Colectia Cogito",
+        "editura": "Albatros",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 124,
+        "titlu": "Coloana infinita din gandirea romana moderna",
+        "colectie": "Colectia Cogito",
+        "editura": "Albatros",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 125,
+        "titlu": "Omul si convietuirea sociala cugetari si reflectii",
+        "colectie": "Colectia Cogito",
+        "editura": "Albatros",
+        "locatie": "Cutie mare"
+    },
+    {
+        "id": 126,
+        "titlu": "Inima de otel",
+        "autor": "Paul Feval",
+        "colectie": "Fracurile negre vol 2",
+        "editura": "Litera",
+        "locatie": "Punga cowboy"
+    },
+    {
+        "id": 127,
+        "titlu": "Strada Jerusalem",
+        "autor": "Paul Feval",
+        "colectie": "Fracurile negre vol 3",
+        "editura": "Litera",
+        "locatie": "Punga cowboy"
+    },
+    {
+        "id": 128,
+        "titlu": "Arma nevazuta",
+        "autor": "Paul Feval",
+        "colectie": "Fracurile negre vol 4",
+        "editura": "Litera",
+        "locatie": "Punga cowboy"
+    },
+    {
+        "id": 129,
+        "titlu": "Mama Leo",
+        "autor": "Paul Feval",
+        "colectie": "Fracurile negre vol 5",
+        "editura": "Litera",
+        "locatie": "Punga cowboy"
+    },
+    {
+        "id": 130,
+        "titlu": "Inghititorul de sabii",
+        "autor": "Paul Feval",
+        "colectie": "Fracurile negre vol 6",
+        "editura": "Litera",
+        "locatie": "Punga cowboy"
+    },
+    {
+        "id": 131,
+        "titlu": "Cavalerii tezaurului",
+        "autor": "Paul Feval",
+        "colectie": "Fracurile negre vol 7",
+        "editura": "Litera",
+        "locatie": "Punga cowboy"
+    },
+    {
+        "id": 132,
+        "titlu": "Banda cadet",
+        "autor": "Paul Feval",
+        "colectie": "Fracurile negre vol 8",
+        "editura": "Litera",
+        "locatie": "Punga cowboy"
+    },
+    {
+        "id": 133,
+        "titlu": "Gentilomii Noptii",
+        "autor": "Paul Feval",
+        "colectie": "Misterele Londrei vol 1",
+        "editura": "Litera",
+        "locatie": "Punga cowboy"
+    },
+    {
+        "id": 134,
+        "titlu": "Fiica spanzuratului",
+        "autor": "Paul Feval",
+        "colectie": "Misterele Londrei vol 2",
+        "editura": "Litera",
+        "locatie": "Punga cowboy"
+    },
+    {
+        "id": 135,
+        "titlu": "Marea Familie",
+        "autor": "Paul Feval",
+        "colectie": "Misterele Londrei vol 3",
+        "editura": "Litera",
+        "locatie": "Punga cowboy"
+    },
+    {
+        "id": 136,
+        "titlu": "Marchizul de Rio-Santo",
+        "autor": "Paul Feval",
+        "colectie": "Misterele Londrei vol 4",
+        "editura": "Litera",
+        "locatie": "Punga cowboy"
+    },
+    {
+        "id": 137,
+        "titlu": "Captivi in timp",
+        "autor": "Rysa Walker",
+        "colectie": "Dosarele cronos vol 1",
+        "editura": "Litera",
+        "locatie": "Punga cowboy"
+    },
+    {
+        "id": 138,
+        "editura": "Litera "
+    },
+    {
+        "id": 139,
+        "titlu": "Intoarcere in viitor",
+        "autor": "Rysa Walker",
+        "colectie": "Dosarele cronos vol 3",
+        "editura": "Litera",
+        "locatie": "Punga cowboy"
+    },
+    {
+        "id": 140,
+        "titlu": "Cei trei muschetari vol 1",
+        "autor": "Alexandre Dumas",
+        "colectie": "Cei trei muschetari vol 1",
+        "editura": "Daffi\u2019s Books",
+        "locatie": "Punga cowboy"
+    },
+    {
+        "id": 141,
+        "titlu": "Cei trei muschetari vol 2",
+        "autor": "Alexandre Dumas",
+        "colectie": "Cei trei muschetari vol 2",
+        "editura": "Daffi\u2019s Books",
+        "locatie": "Punga cowboy"
+    },
+    {
+        "id": 142,
+        "titlu": "Dupa douazeci de ani vol 1",
+        "autor": "Alexandre Dumas",
+        "colectie": "Cei trei muschetari vol 3",
+        "editura": "Daffi\u2019s Books",
+        "locatie": "Punga cowboy"
+    },
+    {
+        "id": 143,
+        "titlu": "Dupa douazeci de ani vol 2",
+        "autor": "Alexandre Dumas",
+        "colectie": "Cei trei muschetari vol 4",
+        "editura": "Daffi\u2019s Books",
+        "locatie": "Punga cowboy"
+    },
+    {
+        "id": 144,
+        "titlu": "Vicontele de Bragelonne vol 1",
+        "autor": "Alexandre Dumas",
+        "colectie": "Cei trei muschetari vol 5",
+        "editura": "Daffi\u2019s Books",
+        "locatie": "Punga cowboy"
+    },
+    {
+        "id": 145,
+        "titlu": "Vicontele de Bragelonne vol 2",
+        "autor": "Alexandre Dumas",
+        "colectie": "Cei trei muschetari vol 6",
+        "editura": "Daffi\u2019s Books",
+        "locatie": "Punga cowboy"
+    },
+    {
+        "id": 146,
+        "titlu": "Vicontele de Bragelonne vol 3",
+        "autor": "Alexandre Dumas",
+        "colectie": "Cei trei muschetari vol 7",
+        "editura": "Daffi\u2019s Books",
+        "locatie": "Punga cowboy"
+    },
+    {
+        "id": 147,
+        "titlu": "Vicontele de Bragelonne vol 4",
+        "autor": "Alexandre Dumas",
+        "colectie": "Cei trei muschetari vol 8",
+        "editura": "Daffi\u2019s Books",
+        "locatie": "Punga cowboy"
+    },
+    {
+        "id": 148,
+        "titlu": "Vicontele de Bragelonne vol 5",
+        "autor": "Alexandre Dumas",
+        "colectie": "Cei trei muschetari vol 9",
+        "editura": "Daffi\u2019s Books",
+        "locatie": "Punga cowboy"
+    },
+    {
+        "id": 149,
+        "titlu": "Vicontele de Bragelonne vol 6",
+        "autor": "Alexandre Dumas",
+        "colectie": "Cei trei muschetari vol 10",
+        "editura": "Daffi\u2019s Books",
+        "locatie": "Punga cowboy"
+    },
+    {
+        "id": 150,
+        "titlu": "1001 fantome",
+        "autor": "Alexandre Dumas",
+        "editura": "Dexon",
+        "locatie": "Punga cowboy"
+    },
+    {
+        "id": 151,
+        "titlu": "Barbatul de 101 ani care voia sa salveze lumea",
+        "autor": "Jonas Jonasson",
+        "colectie": "Barbatul de 100 de ani care a sarit pe fereastra si a disparut\rvol 2",
+        "editura": "Trei",
+        "locatie": "Punga cowboy"
+    },
+    {
+        "id": 152,
+        "titlu": "The A-Z of pointless",
+        "autor": "Alexander Armstrong",
+        "locatie": "Carti 3"
+    },
+    {
+        "id": 153,
+        "titlu": "The Mysteries Collection",
+        "autor": "Enid Blyton",
+        "colectie": "The Mystery of the Spiteful Letters  |  The Mystery of the\rMissing Necklace  |  The mystery of the Hidden House",
+        "locatie": "Carti 3"
+    },
+    {
+        "id": 154,
+        "titlu": "Hope to die",
+        "autor": "James Patterson",
+        "colectie": "Alex Cross vol 22",
+        "locatie": "Carti 3"
+    },
+    {
+        "id": 155,
+        "titlu": "Libraria de investigatii magice",
+        "autor": "Garth Nix",
+        "editura": "Litera",
+        "locatie": "Carti 3"
+    },
+    {
+        "id": 156,
+        "titlu": "Jumatatea rea",
+        "autor": "Sally Green",
+        "colectie": "Half life vol 1",
+        "editura": "Trei",
+        "locatie": "Carti 3"
+    },
+    {
+        "id": 157,
+        "titlu": "Jumatatea salbatica",
+        "autor": "Sally Green",
+        "colectie": "Half life vol 2",
+        "editura": "Trei",
+        "locatie": "Carti 3"
+    },
+    {
+        "id": 158,
+        "editura": "Corint Junior "
+    },
+    {
+        "id": 159,
+        "titlu": "Cum sa fii un bun pirat",
+        "autor": "Cressida Cowell",
+        "colectie": "Sughit Strasnicul Stavrid al III-lea vol 2",
+        "editura": "Corint Junior",
+        "locatie": "Carti 3"
+    },
+    {
+        "id": 160,
+        "titlu": "Cum sa vorbim dragoneza",
+        "autor": "Cressida Cowell",
+        "colectie": "Sughit Strasnicul Stavrid al III-lea vol 3",
+        "editura": "Corint Junior",
+        "locatie": "Carti 3"
+    },
+    {
+        "id": 161,
+        "titlu": "Si inca ceva",
+        "autor": "Eoin Colfer",
+        "colectie": "Ghidul autostopistului galactic vol 6",
+        "editura": "Nautilus",
+        "locatie": "Carti 3"
+    },
+    {
+        "id": 162,
+        "titlu": "Lumea legendelor creaturi monstruoase",
+        "autor": "Aaron Mahnke",
+        "editura": "Lifestyle",
+        "locatie": "Carti 3"
+    },
+    {
+        "id": 163,
+        "titlu": "Hipopotamul de la capatul coridorului",
+        "autor": "Helen Cooper",
+        "editura": "Pandora",
+        "locatie": "Carti 3"
+    },
+    {
+        "id": 164,
+        "titlu": "Infernalii",
+        "autor": "John Connolly",
+        "colectie": "Samuel Johnson vol 2",
+        "editura": "Pandora",
+        "locatie": "Carti 3"
+    },
+    {
+        "id": 165,
+        "titlu": "Cei care iti dau fiori",
+        "autor": "John Connolly",
+        "colectie": "Samuel Johnson vol 3",
+        "editura": "Pandora",
+        "locatie": "Carti 3"
+    },
+    {
+        "id": 166,
+        "titlu": "Pajistea dragonului",
+        "autor": "Scarlett Thomas",
+        "colectie": "Cutremurul mondial vol 1",
+        "editura": "Arthur",
+        "locatie": "Carti 3"
+    },
+    {
+        "id": 167,
+        "titlu": "Testamentul lui Will Wolfkin",
+        "autor": "Steven Knight",
+        "editura": "Corint Junior",
+        "locatie": "Carti 3"
+    },
+    {
+        "id": 168,
+        "titlu": "Darul",
+        "autor": "James Patterson, Ned Rust",
+        "colectie": "Vrajitor & Vrajitoare vol 2",
+        "editura": "Leda",
+        "locatie": "Carti 3"
+    },
+    {
+        "id": 169,
+        "titlu": "Focul",
+        "autor": "James Patterson, Jill Dembowski",
+        "colectie": "Vrajitor & Vrajitoare vol 3",
+        "editura": "Leda",
+        "locatie": "Carti 3"
+    },
+    {
+        "id": 170,
+        "titlu": "Fortareata digitala",
+        "autor": "Dan Brown",
+        "editura": "RAO",
+        "locatie": "Carti 3"
+    },
+    {
+        "id": 171,
+        "titlu": "Conspiratia",
+        "autor": "Dan Brown",
+        "engleza": "Da, + varianta engleza  Deception point",
+        "editura": "RAO",
+        "locatie": "Carti 3"
+    },
+    {
+        "id": 172,
+        "titlu": "Satul disparut",
+        "autor": "Camilla Sten",
+        "editura": "RAO",
+        "locatie": "Carti 3"
+    },
+    {
+        "id": 173,
+        "titlu": "Dolores Claiborne",
+        "autor": "Stephen King",
+        "editura": "Nemira",
+        "locatie": "Carti 3"
+    },
+    {
+        "id": 174,
+        "titlu": "Razbunarea",
+        "autor": "Anthony Bloomfield",
+        "editura": "Art",
+        "locatie": "Carti 3"
+    },
+    {
+        "id": 175,
+        "titlu": "Focuri vii",
+        "autor": "Pierre Drieu La Rochelle",
+        "editura": "Corint",
+        "locatie": "Carti 3"
+    },
+    {
+        "id": 176,
+        "titlu": "Alunecare",
+        "autor": "Jill Hathaway",
+        "colectie": "Alunecare vol 1",
+        "editura": "RAO",
+        "locatie": "Carti 3"
+    },
+    {
+        "id": 177,
+        "titlu": "Ditte fiica omului",
+        "autor": "Martin Andersen Nexo",
+        "editura": "Editura de stat pentru literatura si arta",
+        "locatie": "Carti 3"
+    },
+    {
+        "id": 178,
+        "titlu": "Femei indragostite",
+        "autor": "D. H. Lawrence",
+        "editura": "Univers",
+        "locatie": "Carti 3"
+    },
+    {
+        "id": 179,
+        "titlu": "Baiatul care voia sa traiasca vesnic",
+        "autor": "Frederik Pohl",
+        "colectie": "Saga Heechee vol 6",
+        "editura": "Nautilus",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 180,
+        "titlu": "Miraj",
+        "autor": "Somaiya Daud",
+        "editura": "Nemira",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 181,
+        "titlu": "#In Timp ce tu dormeai",
+        "autor": "Horia Ghibutiu",
+        "editura": "Trei",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 182,
+        "titlu": "Hotul de oglinzi",
+        "autor": "Martin Seay",
+        "editura": "Trei",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 183,
+        "titlu": "Antologiile Gardner Dozois",
+        "colectie": "The Year\u2019s Best Science Fiction vol 7",
+        "editura": "Nautilus",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 184,
+        "titlu": "Razboi in zona de separatie",
+        "autor": "Neal Asher",
+        "colectie": "Agentul Cormac vol 2",
+        "editura": "Nautilus",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 185,
+        "titlu": "Armada",
+        "autor": "Ernest Cline",
+        "editura": "Nautilus",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 186,
+        "titlu": "Vanatii",
+        "autor": "Maggie Stiefvater",
+        "colectie": "Spirite-animale vol 2",
+        "editura": "Pandora",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 187,
+        "titlu": "Legaturi de sange",
+        "autor": "Garth Nix, Sean Williams",
+        "colectie": "Spirite-animale vol 3",
+        "editura": "Pandora",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 188,
+        "titlu": "Foc si gheata",
+        "autor": "Shannon Hale",
+        "colectie": "Spirite-animale vol 4",
+        "editura": "Pandora",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 189,
+        "titlu": "Infruntand torentul",
+        "autor": "Tui T. Sutherland",
+        "colectie": "Spirite-animale vol 5",
+        "editura": "Pandora",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 190,
+        "titlu": "Inaltare si declin",
+        "autor": "Eliot Schrefer",
+        "colectie": "Spirite-animale vol 6",
+        "editura": "Pandora",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 191,
+        "titlu": "Arborele vesnic",
+        "autor": "Marie Lu",
+        "colectie": "Spirite-animale vol 7",
+        "editura": "Pandora",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 192,
+        "titlu": "Jurnal insingerat",
+        "autor": "Oliver Lustig",
+        "editura": "Editura Militara",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 193,
+        "titlu": "Spartacus",
+        "autor": "Rafaello Giovagnoli",
+        "editura": "Scoica",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 194,
+        "titlu": "O zi fara anotimp",
+        "autor": "Dan Claudiu Tanasescu",
+        "editura": "Semne",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 195,
+        "titlu": "Stormbreaker",
+        "autor": "Anthony Horowitz",
+        "colectie": "Alex Rider vol 1",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 196,
+        "titlu": "Point Blanc",
+        "autor": "Anthony Horowitz",
+        "colectie": "Alex Rider vol 2",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 197,
+        "titlu": "Skeleton key",
+        "autor": "Anthony Horowitz",
+        "colectie": "Alex Rider vol 3",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 198,
+        "titlu": "Eagle strike",
+        "autor": "Anthony Horowitz",
+        "colectie": "Alex Rider vol 4",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 199,
+        "titlu": "Scorpia",
+        "autor": "Anthony Horowitz",
+        "colectie": "Alex Rider vol 5",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 200,
+        "titlu": "Ark angel",
+        "autor": "Anthony Horowitz",
+        "colectie": "Alex Rider vol 6",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 201,
+        "titlu": "Snakehead",
+        "autor": "Anthony Horowitz",
+        "colectie": "Alex Rider vol 7",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 202,
+        "titlu": "Crocodile tears",
+        "autor": "Anthony Horowitz",
+        "colectie": "Alex Rider vol 8",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 203,
+        "titlu": "Scorpia rising",
+        "autor": "Anthony Horowitz",
+        "colectie": "Alex Rider vol 9",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 204,
+        "titlu": "Russian Roulette",
+        "autor": "Anthony Horowitz",
+        "colectie": "Alex Rider vol 10",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 205,
+        "titlu": "Evil star",
+        "autor": "Anthony Horowitz",
+        "colectie": "The Power of Five vol 2",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 206,
+        "titlu": "Nightrise",
+        "autor": "Anthony Horowitz",
+        "colectie": "The Power of Five vol 3",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 207,
+        "titlu": "The word is murder",
+        "autor": "Anthony Horowitz",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 208,
+        "titlu": "Dark sun",
+        "autor": "Robert Muchamore",
+        "colectie": "Cherub vol 0",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 209,
+        "titlu": "The recruit",
+        "autor": "Robert Muchamore",
+        "colectie": "Cherub vol 1",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 210,
+        "titlu": "Class A",
+        "autor": "Robert Muchamore",
+        "colectie": "Cherub vol 2",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 211,
+        "titlu": "Maximum Security",
+        "autor": "Robert Muchamore",
+        "colectie": "Cherub vol 3",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 212,
+        "titlu": "The killing",
+        "autor": "Robert Muchamore",
+        "colectie": "Cherub vol 4",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 213,
+        "titlu": "Divine madness",
+        "autor": "Robert Muchamore",
+        "colectie": "Cherub vol 5",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 214,
+        "titlu": "Man vs beast",
+        "autor": "Robert Muchamore",
+        "colectie": "Cherub vol 6",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 215,
+        "titlu": "The fall",
+        "autor": "Robert Muchamore",
+        "colectie": "Cherub vol 7",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 216,
+        "titlu": "Mad dogs",
+        "autor": "Robert Muchamore",
+        "colectie": "Cherub vol 8",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 217,
+        "titlu": "The sleepwalker",
+        "autor": "Robert Muchamore",
+        "colectie": "Cherub vol 9",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 218,
+        "titlu": "The general",
+        "autor": "Robert Muchamore",
+        "colectie": "Cherub vol 10",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 219,
+        "titlu": "Brigands M.C.",
+        "autor": "Robert Muchamore",
+        "colectie": "Cherub vol 11",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 220,
+        "titlu": "Shadow wave",
+        "autor": "Robert Muchamore",
+        "colectie": "Cherub vol 12",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 221,
+        "titlu": "People\u2019s republic",
+        "autor": "Robert Muchamore",
+        "colectie": "Cherub vol 13",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 222,
+        "titlu": "Guardian angel",
+        "autor": "Robert Muchamore",
+        "colectie": "Cherub vol 14",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 223,
+        "titlu": "Black friday",
+        "autor": "Robert Muchamore",
+        "colectie": "Cherub vol 15",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 224,
+        "titlu": "The escape",
+        "autor": "Robert Muchamore",
+        "colectie": "Henderson's Boys vol 1",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 225,
+        "titlu": "Eagle day",
+        "autor": "Robert Muchamore",
+        "colectie": "Henderson's Boys vol 2",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 226,
+        "titlu": "Secret army",
+        "autor": "Robert Muchamore",
+        "colectie": "Henderson's Boys vol 3",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 227,
+        "titlu": "Grey wolves",
+        "autor": "Robert Muchamore",
+        "colectie": "Henderson's Boys vol 4",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 228,
+        "titlu": "The prisoner",
+        "autor": "Robert Muchamore",
+        "colectie": "Henderson's Boys vol 5",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 229,
+        "titlu": "One shot kill",
+        "autor": "Robert Muchamore",
+        "colectie": "Henderson's Boys vol 6",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 230,
+        "titlu": "Scorched earth",
+        "autor": "Robert Muchamore",
+        "colectie": "Henderson's Boys vol 7",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 231,
+        "titlu": "Hacking, heists & flaming arrows",
+        "autor": "Robert Muchamore",
+        "colectie": "Robin hood vol 1",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 232,
+        "titlu": "The lost symbol",
+        "autor": "Dan Brown",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 233,
+        "titlu": "Deep six",
+        "autor": "Clive Cussler",
+        "colectie": "The Dirk Pitt Adventure Series vol 8",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 234,
+        "titlu": "Cyclops",
+        "autor": "Clive Cussler",
+        "colectie": "The Dirk Pitt Adventure Series vol 9",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 235,
+        "titlu": "Flood tide",
+        "autor": "Clive Cussler",
+        "colectie": "The Dirk Pitt Adventure Series vol 15",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 236,
+        "titlu": "Valhalla rising",
+        "autor": "Clive Cussler",
+        "colectie": "The Dirk Pitt Adventure Series vol 17"
+    },
+    {
+        "id": 237,
+        "titlu": "Treasure",
+        "autor": "Clive Cussler",
+        "colectie": "The Dirk Pitt Adventure Series vol 10",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 238,
+        "titlu": "Inca gold",
+        "autor": "Clive Cussler",
+        "colectie": "The Dirk Pitt Adventure Series vol 13",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 239,
+        "titlu": "The chase",
+        "autor": "Clive Cussler",
+        "colectie": "Isaac Bell Adventures vol 1",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 240,
+        "titlu": "Skeleton Coast",
+        "autor": "Clive Cussler",
+        "colectie": "The Oregon Files vol 4",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 241,
+        "titlu": "The jungle",
+        "autor": "Clive Cussler",
+        "colectie": "The Oregon Files vol 8",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 242,
+        "titlu": "The Mayan secrets",
+        "autor": "Clive Cussler",
+        "colectie": "Sam And Remi Fargo Adventures vol 5",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 243,
+        "titlu": "Devil\u2019s gate",
+        "autor": "Clive Cussler",
+        "colectie": "The NUMA Files vol 9",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 244,
+        "titlu": "Predator",
+        "autor": "Patricia Cornwell",
+        "colectie": "Kay Scarpetta vol 14",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 245,
+        "titlu": "Dark Hollow",
+        "autor": "John Connolly",
+        "colectie": "Charlie Parker vol 2",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 246,
+        "titlu": "Jack & Jill",
+        "autor": "James Patterson",
+        "colectie": "Alex Cross vol 3",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 247,
+        "titlu": "The Reapers",
+        "autor": "John Connolly",
+        "colectie": "Charlie Parker vol 7",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 248,
+        "titlu": "Running the Risk",
+        "autor": "Ali Sparkes",
+        "colectie": "The Shapeshifter vol 2",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 249,
+        "titlu": "Duhurile",
+        "autor": "Charles Grant",
+        "colectie": "Dosarele X vol 1",
+        "editura": "RAO",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 250,
+        "titlu": "Virtejul",
+        "autor": "Charles Grant",
+        "colectie": "Dosarele X vol 2",
+        "editura": "RAO",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 251,
+        "titlu": "Punctul zero",
+        "autor": "Kevin J. Anderson",
+        "colectie": "Dosarele X vol 3",
+        "editura": "RAO",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 252,
+        "titlu": "Ruinele",
+        "autor": "Kevin J. Anderson",
+        "colectie": "Dosarele X vol 4",
+        "editura": "RAO",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 253,
+        "titlu": "Anticorpii",
+        "autor": "Kevin J. Anderson",
+        "colectie": "Dosarele X vol 5",
+        "editura": "RAO",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 254,
+        "titlu": "Adevarul este dincolo de noi",
+        "autor": "Brian Lowry",
+        "colectie": "Dosarele X vol ghidul oficial vol 1",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 255,
+        "titlu": "Agent secret",
+        "autor": "Leigh Riker",
+        "editura": "Harlequin",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 256,
+        "titlu": "Codul lui Da Vinci",
+        "autor": "Dan Brown",
+        "editura": "RAO",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 257,
+        "titlu": "Inferno",
+        "autor": "Dan Brown",
+        "editura": "RAO",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 258,
+        "titlu": "Labirintul apelor",
+        "autor": "E. L. Doctorow",
+        "editura": "RAO",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 259,
+        "titlu": "Gremlins",
+        "autor": "Steven Spielberg",
+        "colectie": "Gremlins vol 1",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 260,
+        "titlu": "Vultur si inger",
+        "autor": "Juli zeh",
+        "editura": "Niculescu",
+        "locatie": "Cutia Panettone"
+    },
+    {
+        "id": 261,
+        "titlu": "Stapanii nordului",
+        "autor": "Bernard Cornwell",
+        "colectie": "Ultimul regat vol 3",
+        "editura": "Litera",
+        "locatie": "Carti 4 rosie"
+    },
+    {
+        "id": 262,
+        "titlu": "Cantecul sabiei",
+        "autor": "Bernard Cornwell",
+        "colectie": "Ultimul regat vol 4",
+        "editura": "Litera",
+        "locatie": "Carti 4 rosie"
+    },
+    {
+        "id": 263,
+        "titlu": "Tinuturi in flacari",
+        "autor": "Bernard Cornwell",
+        "colectie": "Ultimul regat vol 5",
+        "editura": "Litera",
+        "locatie": "Carti 4 rosie"
+    },
+    {
+        "id": 264,
+        "titlu": "Moartea regilor",
+        "autor": "Bernard Cornwell",
+        "colectie": "Ultimul regat vol 6",
+        "editura": "Litera",
+        "locatie": "Carti 4 rosie"
+    },
+    {
+        "id": 265,
+        "titlu": "Lordul pagan",
+        "autor": "Bernard Cornwell",
+        "colectie": "Ultimul regat vol 7",
+        "editura": "Litera",
+        "locatie": "Carti 4 rosie"
+    },
+    {
+        "id": 266,
+        "titlu": "Tronul gol",
+        "autor": "Bernard Cornwell",
+        "colectie": "Ultimul regat vol 8",
+        "editura": "Litera",
+        "locatie": "Carti 4 rosie"
+    },
+    {
+        "id": 267,
+        "titlu": "Razboinicii furtunii",
+        "autor": "Bernard Cornwell",
+        "colectie": "Ultimul regat vol 9",
+        "editura": "Litera",
+        "locatie": "Carti 4 rosie"
+    },
+    {
+        "id": 268,
+        "titlu": "Purtatorul tortei",
+        "autor": "Bernard Cornwell",
+        "colectie": "Ultimul regat vol 10",
+        "editura": "Litera",
+        "locatie": "Carti 4 rosie"
+    },
+    {
+        "id": 269,
+        "titlu": "Razboiul Lupilor",
+        "autor": "Bernard Cornwell",
+        "colectie": "Ultimul regat vol 11",
+        "editura": "Litera",
+        "locatie": "Carti 4 rosie"
+    },
+    {
+        "id": 270,
+        "titlu": "Spada regilor",
+        "autor": "Bernard Cornwell",
+        "colectie": "Ultimul regat vol 12",
+        "editura": "Litera",
+        "locatie": "Carti 4 rosie"
+    },
+    {
+        "id": 271,
+        "titlu": "Nebuni si muritori",
+        "autor": "Bernard Cornwell",
+        "editura": "Litera",
+        "locatie": "Carti 4 rosie"
+    },
+    {
+        "id": 272,
+        "titlu": "Cavalerul celor sapte regate",
+        "autor": "George R.R. Martin",
+        "editura": "Nautilus fantasy",
+        "locatie": "Carti 4 rosie"
+    },
+    {
+        "id": 273,
+        "titlu": "Memoriile unui motan calator",
+        "autor": "Hiro Arikawa",
+        "editura": "Humanitas fiction",
+        "locatie": "Carti 4 rosie"
+    },
+    {
+        "id": 274,
+        "titlu": "Ethan, cel care am fost",
+        "autor": "Ali Standish",
+        "editura": "Corint Junior",
+        "locatie": "Carti 4 rosie"
+    },
+    {
+        "id": 275,
+        "titlu": "Alfie the doorstep cat",
+        "autor": "Rachel Wells",
+        "locatie": "Carti 4 rosie"
+    },
+    {
+        "id": 276,
+        "titlu": "Minus optsprezece grade",
+        "autor": "Stefan Ahnhem",
+        "colectie": "Fabian Risk vol 3",
+        "editura": "Litera",
+        "locatie": "Carti 4 rosie"
+    },
+    {
+        "id": 277,
+        "titlu": "Vin ploile",
+        "autor": "Louis Bromfield",
+        "editura": "Univers",
+        "locatie": "Sacosa carti mama 1"
+    },
+    {
+        "id": 278,
+        "titlu": "Un act de vointa",
+        "autor": "Barbara Bradford Taylor",
+        "editura": "Orizonturi",
+        "locatie": "Sacosa carti mama 1"
+    },
+    {
+        "id": 279,
+        "titlu": "Pasagera clandestina",
+        "autor": "Essie Summers",
+        "colectie": "El & ea vol 49",
+        "editura": "Alcris",
+        "locatie": "Sacosa carti mama 1"
+    },
+    {
+        "id": 280,
+        "titlu": "Vedeta",
+        "autor": "Kate Coscarelli",
+        "editura": "Miron",
+        "locatie": "Sacosa carti mama 1"
+    },
+    {
+        "id": 281,
+        "titlu": "Tentatia",
+        "autor": "Ruth Rendell",
+        "editura": "Miron",
+        "locatie": "Sacosa carti mama 1"
+    },
+    {
+        "id": 282,
+        "titlu": "Raul revarsat",
+        "autor": "Lucy Walker",
+        "editura": "Coni",
+        "locatie": "Sacosa carti mama 1"
+    },
+    {
+        "id": 283,
+        "titlu": "Matase frantuzeasca",
+        "autor": "Sandra Brown",
+        "editura": "Miron",
+        "locatie": "Sacosa carti mama 1"
+    },
+    {
+        "id": 284,
+        "titlu": "Sub soarele pamintului",
+        "autor": "Aurel Petrescu",
+        "editura": "Albatros",
+        "locatie": "Sacosa carti mama 1"
+    },
+    {
+        "id": 285,
+        "titlu": "Lovitura de maestru",
+        "autor": "Elisabeth Gage",
+        "editura": "Miron",
+        "locatie": "Sacosa carti mama 1"
+    },
+    {
+        "id": 286,
+        "titlu": "Clinica Gorlin",
+        "autor": "Barbara Harrison",
+        "colectie": "Spitalul municipal vol 2",
+        "editura": "Carmel",
+        "locatie": "Sacosa carti mama 1"
+    },
+    {
+        "id": 287,
+        "titlu": "Filiera elvetiana",
+        "autor": "Paul Erdman",
+        "isbn": "(*) poate o citesc",
+        "editura": "RAO",
+        "locatie": "Sacosa carti mama 1"
+    },
+    {
+        "id": 288,
+        "titlu": "Imagini trecatoare",
+        "autor": "Elisabeth Adler",
+        "editura": "Raoul Gallery",
+        "locatie": "Sacosa carti mama 1"
+    },
+    {
+        "id": 289,
+        "titlu": "Mirona",
+        "autor": "Cella Serghi",
+        "editura": "Minerva",
+        "locatie": "Sacosa carti mama 1"
+    },
+    {
+        "id": 290,
+        "titlu": "Destine paralele",
+        "autor": "Christina Courtenay",
+        "editura": "Lider",
+        "locatie": "Sacosa carti mama 1"
+    },
+    {
+        "id": 291,
+        "titlu": "Guvernanta",
+        "autor": "Christi Caldwell",
+        "colectie": "Fete si secrete vol 3",
+        "editura": "Litera",
+        "locatie": "Sacosa carti mama 1"
+    },
+    {
+        "id": 292,
+        "titlu": "Ambasadorii",
+        "autor": "Henry James",
+        "editura": "Univers",
+        "locatie": "Sacosa carti mama 1"
+    },
+    {
+        "id": 293,
+        "titlu": "Cheia aurita",
+        "autor": "Juan Angel Cardi",
+        "editura": "Mondial-Press",
+        "locatie": "Sacosa carti mama 1"
+    },
+    {
+        "id": 294,
+        "editura": "Leda "
+    },
+    {
+        "id": 295,
+        "titlu": "Pantofarul si moartea",
+        "autor": "Peter James",
+        "editura": "Nemira",
+        "locatie": "Sacosa carti mama 1"
+    },
+    {
+        "id": 296,
+        "titlu": "Versuri",
+        "autor": "Ion Minulescu",
+        "editura": "Editura pentru literatura",
+        "locatie": "Sacosa carti mama 1"
+    },
+    {
+        "id": 297,
+        "titlu": "Origini",
+        "autor": "Dan Brown",
+        "locatie": "Sacosa carti mama 1"
+    },
+    {
+        "id": 298,
+        "titlu": "Tronul de clestar",
+        "autor": "Sarah J. Maas",
+        "colectie": "Tronul de clestar vol 1",
+        "editura": "RAO",
+        "locatie": "Sacosa carti mama 2 - mos craciun"
+    },
+    {
+        "id": 299,
+        "titlu": "Diamantul de la miezul noptii",
+        "autor": "Sarah J. Maas",
+        "colectie": "Tronul de clestar vol 2",
+        "editura": "RAO",
+        "locatie": "Sacosa carti mama 2 - mos craciun"
+    },
+    {
+        "id": 300,
+        "titlu": "Mostenitoarea focului",
+        "autor": "Sarah J. Maas",
+        "colectie": "Tronul de clestar vol 3",
+        "editura": "RAO",
+        "locatie": "Sacosa carti mama 2 - mos craciun"
+    },
+    {
+        "id": 301,
+        "titlu": "Regina umbrelor",
+        "autor": "Sarah J. Maas",
+        "colectie": "Tronul de clestar vol 4",
+        "editura": "RAO",
+        "locatie": "Sacosa carti mama 2 - mos craciun"
+    },
+    {
+        "id": 302,
+        "titlu": "Imperiul furtunilor",
+        "autor": "Sarah J. Maas",
+        "colectie": "Tronul de clestar vol 5",
+        "editura": "RAO",
+        "locatie": "Sacosa carti mama 2 - mos craciun"
+    },
+    {
+        "id": 303,
+        "titlu": "Turnul zorilor",
+        "autor": "Sarah J. Maas",
+        "colectie": "Tronul de clestar vol 6",
+        "editura": "RAO",
+        "locatie": "Sacosa carti mama 2 - mos craciun"
+    },
+    {
+        "id": 304,
+        "titlu": "Taramul de cenusa",
+        "autor": "Sarah J. Maas",
+        "colectie": "Tronul de clestar vol 7",
+        "editura": "RAO",
+        "locatie": "Sacosa carti mama 2 - mos craciun"
+    },
+    {
+        "id": 305,
+        "titlu": "Casa pamantului si a sangelui",
+        "autor": "Sarah J. Maas",
+        "colectie": "Orasul semilunii vol 1",
+        "editura": "Litera",
+        "locatie": "Sacosa carti mama 2 - mos craciun"
+    },
+    {
+        "id": 306,
+        "titlu": "Casa cerului si a aerului",
+        "autor": "Sarah J. Maas",
+        "colectie": "Orasul semilunii vol 2",
+        "editura": "Litera",
+        "locatie": "Sacosa carti mama 2 - mos craciun"
+    },
+    {
+        "id": 307,
+        "titlu": "Regatul spinilor si al trandafirilor",
+        "autor": "Sarah J. Maas",
+        "colectie": "Regatul spinilor si al trandafirilor vol 1",
+        "editura": "RAO",
+        "locatie": "Sacosa carti mama 2 - mos craciun"
+    },
+    {
+        "id": 308,
+        "titlu": "Regatul cetii si al furiei",
+        "autor": "Sarah J. Maas",
+        "colectie": "Regatul spinilor si al trandafirilor vol 2",
+        "editura": "RAO",
+        "locatie": "Sacosa carti mama 2 - mos craciun"
+    },
+    {
+        "id": 309,
+        "titlu": "Regatul aripilor si al pieirii",
+        "autor": "Sarah J. Maas",
+        "colectie": "Regatul spinilor si al trandafirilor vol 3",
+        "editura": "RAO",
+        "locatie": "Sacosa carti mama 2 - mos craciun"
+    },
+    {
+        "id": 310,
+        "titlu": "Regatul gheturilor si al instelarii",
+        "autor": "Sarah J. Maas",
+        "colectie": "Regatul spinilor si al trandafirilor vol 3.5",
+        "editura": "RAO",
+        "locatie": "Sacosa carti mama 2 - mos craciun"
+    },
+    {
+        "id": 311,
+        "titlu": "Regatul flacarilor argintii",
+        "autor": "Sarah J. Maas",
+        "colectie": "Regatul spinilor si al trandafirilor vol 4",
+        "editura": "RAO",
+        "locatie": "Sacosa carti mama 2 - mos craciun"
+    },
+    {
+        "id": 312,
+        "titlu": "Hotii de fum",
+        "autor": "Sally Green",
+        "editura": "Young art",
+        "locatie": "Sacosa carti mama 2 - mos craciun"
+    },
+    {
+        "id": 313,
+        "titlu": "Bariera",
+        "autor": "J. D. Horn",
+        "colectie": "Vraji in savannah vol 1",
+        "editura": "TREI",
+        "locatie": "Sacosa carti mama 2 - mos craciun"
+    },
+    {
+        "id": 314,
+        "titlu": "Sursa",
+        "autor": "J. D. Horn",
+        "colectie": "Vraji in savannah vol 2",
+        "editura": "TREI",
+        "locatie": "Sacosa carti mama 2 - mos craciun"
+    },
+    {
+        "id": 315,
+        "titlu": "Seri antice",
+        "autor": "Norman Mailer",
+        "editura": "Biblioteca Polirom",
+        "locatie": "Sacosa carti mama 3 - maci"
+    },
+    {
+        "id": 316,
+        "titlu": "Copilul din flori",
+        "autor": "Audur Ava Olafsdottir",
+        "editura": "Pandora",
+        "locatie": "Sacosa carti mama 3 - maci"
+    },
+    {
+        "id": 317,
+        "titlu": "Pictorul de suflete",
+        "autor": "Ildefonso Falcones",
+        "editura": "RAO",
+        "locatie": "Sacosa carti mama 3 - maci"
+    },
+    {
+        "id": 318,
+        "titlu": "Fetele disparute din Paris",
+        "autor": "Pam Jenoff",
+        "editura": "Litera",
+        "locatie": "Sacosa carti mama 3 - maci"
+    },
+    {
+        "id": 319,
+        "titlu": "Incepem cu sfarsitul",
+        "autor": "Chris Whitaker",
+        "editura": "TREI",
+        "locatie": "Sacosa carti mama 3 - maci"
+    },
+    {
+        "id": 320,
+        "titlu": "Timpuri glaciale",
+        "autor": "Fred Vargas",
+        "editura": "Crime Scene Press",
+        "locatie": "Sacosa carti mama 3 - maci"
+    },
+    {
+        "id": 321,
+        "titlu": "Aleea cu licurici",
+        "autor": "Kristin Hannah",
+        "editura": "Litera",
+        "locatie": "Sacosa carti mama 4 - roz"
+    },
+    {
+        "id": 322,
+        "titlu": "Ferma de perle negre",
+        "autor": "Liza Marklund",
+        "editura": "TREI",
+        "locatie": "Sacosa carti mama 4 - roz"
+    },
+    {
+        "id": 323,
+        "titlu": "Lungul drum spre casa",
+        "autor": "Louise Penny",
+        "editura": "TREI",
+        "locatie": "Sacosa carti mama 4 - roz"
+    },
+    {
+        "id": 324,
+        "titlu": "Supravietuitorii",
+        "autor": "Jane Harper",
+        "editura": "TREI",
+        "locatie": "Sacosa carti mama 4 - roz"
+    },
+    {
+        "id": 325,
+        "titlu": "Nostradamus ultimele revelatii",
+        "autor": "Peter Lemesurier",
+        "editura": "Tempus",
+        "locatie": "Sacosa carti mama 4 - roz"
+    },
+    {
+        "id": 326,
+        "titlu": "Sa nu spui niciodata pentru totdeauna",
+        "autor": "Jennifer L. Armentrout",
+        "editura": "Epica",
+        "locatie": "Sacosa carti mama 4 - roz"
+    },
+    {
+        "id": 327,
+        "titlu": "Ispita",
+        "autor": "Jennifer L. Armentrout",
+        "colectie": "Wicked vol 1",
+        "editura": "Leda Edge",
+        "locatie": "Sacosa carti mama 4 - roz"
+    },
+    {
+        "id": 328,
+        "titlu": "Sfasiere",
+        "autor": "Jennifer L. Armentrout",
+        "colectie": "Wicked vol 2",
+        "editura": "Leda Edge",
+        "locatie": "Sacosa carti mama 4 - roz"
+    },
+    {
+        "id": 329,
+        "editura": "Litera "
+    },
+    {
+        "id": 330,
+        "titlu": "Ruina si blestem",
+        "autor": "Jennifer L. Armentrout",
+        "colectie": "Mesagerul vol 2",
+        "editura": "Litera",
+        "locatie": "Sacosa carti mama 4 - roz"
+    },
+    {
+        "id": 331,
+        "titlu": "Har si destin",
+        "autor": "Jennifer L. Armentrout",
+        "colectie": "Mesagerul vol 3",
+        "editura": "Litera",
+        "locatie": "Sacosa carti mama 4 - roz"
+    },
+    {
+        "id": 332,
+        "titlu": "Din sange si cenusa",
+        "autor": "Jennifer L. Armentrout",
+        "colectie": "Sange si cenusa vol 1",
+        "editura": "Litera",
+        "locatie": "Sacosa carti mama 4 - roz"
+    },
+    {
+        "id": 333,
+        "titlu": "Regatul focului si al dorintei",
+        "autor": "Jennifer L. Armentrout",
+        "colectie": "Sange si cenusa vol 2",
+        "editura": "Litera",
+        "locatie": "Sacosa carti mama 4 - roz"
+    },
+    {
+        "id": 334,
+        "titlu": "Coroana de oase aurite",
+        "autor": "Jennifer L. Armentrout",
+        "colectie": "Sange si cenusa vol 3",
+        "editura": "Litera",
+        "locatie": "Sacosa carti mama 4 - roz"
+    },
+    {
+        "id": 335,
+        "titlu": "Razboiul celor doua regine",
+        "autor": "Jennifer L. Armentrout",
+        "colectie": "Sange si cenusa vol 4",
+        "editura": "Litera",
+        "locatie": "Sacosa carti mama 4 - roz"
+    },
+    {
+        "id": 336,
+        "titlu": "Spulbera-ma",
+        "autor": "Tahereh Mafi",
+        "colectie": "Atingerea lui Juliette vol 1",
+        "editura": "Leda Edge",
+        "locatie": "Sacosa carti mama 4 - roz"
+    },
+    {
+        "id": 337,
+        "titlu": "Elibereaza-ma",
+        "autor": "Tahereh Mafi",
+        "colectie": "Atingerea lui Juliette vol 2",
+        "editura": "Leda Edge",
+        "locatie": "Sacosa carti mama 4 - roz"
+    },
+    {
+        "id": 338,
+        "titlu": "Aprinde-ma",
+        "autor": "Tahereh Mafi",
+        "colectie": "Atingerea lui Juliette vol 3",
+        "editura": "Leda Edge",
+        "locatie": "Sacosa carti mama 4 - roz"
+    },
+    {
+        "id": 339,
+        "titlu": "Repara-ma",
+        "autor": "Tahereh Mafi",
+        "colectie": "Atingerea lui Juliette vol 4",
+        "editura": "Leda Edge",
+        "locatie": "Sacosa carti mama 4 - roz"
+    },
+    {
+        "id": 340,
+        "titlu": "Sfideaza-ma",
+        "autor": "Tahereh Mafi",
+        "colectie": "Atingerea lui Juliette vol 5",
+        "editura": "Leda Edge",
+        "locatie": "Sacosa carti mama 4 - roz"
+    },
+    {
+        "id": 341,
+        "titlu": "Naufragiatii aerului",
+        "autor": "Jules Verne",
+        "colectie": "Insula misterioasa vol 1",
+        "editura": "Litera",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 342,
+        "titlu": "Abandonul",
+        "autor": "Jules Verne",
+        "colectie": "Insula misterioasa vol 2",
+        "editura": "Litera",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 343,
+        "titlu": "Secretul insulei",
+        "autor": "Jules Verne",
+        "colectie": "Insula misterioasa vol 3",
+        "editura": "Litera",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 344,
+        "titlu": "Artemis Fowl",
+        "autor": "Eoin Colfer",
+        "colectie": "Artemis Fowl vol 1",
+        "locatie": "Biblioteca camera stanga jos"
+    },
+    {
+        "id": 345,
+        "titlu": "The arctic incident",
+        "autor": "Eoin Colfer",
+        "colectie": "Artemis Fowl vol 2",
+        "locatie": "Biblioteca camera stanga jos"
+    },
+    {
+        "id": 346,
+        "titlu": "The eternity code",
+        "autor": "Eoin Colfer",
+        "colectie": "Artemis Fowl vol 3",
+        "locatie": "Biblioteca camera stanga jos"
+    },
+    {
+        "id": 347,
+        "titlu": "The Opal deception",
+        "autor": "Eoin Colfer",
+        "colectie": "Artemis Fowl vol 4",
+        "locatie": "Biblioteca camera stanga jos"
+    },
+    {
+        "id": 348,
+        "titlu": "The lost colony",
+        "autor": "Eoin Colfer",
+        "colectie": "Artemis Fowl vol 5",
+        "locatie": "Biblioteca camera stanga jos"
+    },
+    {
+        "id": 349,
+        "titlu": "The time paradox",
+        "autor": "Eoin Colfer",
+        "colectie": "Artemis Fowl vol 6",
+        "locatie": "Biblioteca camera stanga jos"
+    },
+    {
+        "id": 350,
+        "titlu": "The supernaturalist",
+        "autor": "Eoin Colfer",
+        "locatie": "Biblioteca camera stanga jos"
+    },
+    {
+        "id": 351,
+        "titlu": "The wish list",
+        "autor": "Eoin Colfer",
+        "locatie": "Biblioteca camera stanga jos"
+    },
+    {
+        "id": 352,
+        "titlu": "Half Moon Investigations",
+        "autor": "Eoin Colfer",
+        "locatie": "Biblioteca camera stanga jos"
+    },
+    {
+        "id": 353,
+        "titlu": "The Fowl twins",
+        "autor": "Eoin Colfer",
+        "colectie": "The Fowl twins vol 1",
+        "locatie": "Biblioteca camera stanga jos"
+    },
+    {
+        "id": 354,
+        "titlu": "Ultima dorinta",
+        "autor": "Andrzej Sapkowski",
+        "colectie": "Witcher vol 1",
+        "editura": "Armada",
+        "locatie": "Biblioteca camera stanga jos"
+    },
+    {
+        "id": 355,
+        "titlu": "Sabia destinului",
+        "autor": "Andrzej Sapkowski",
+        "colectie": "Witcher vol 2",
+        "editura": "Armada",
+        "locatie": "Biblioteca camera stanga jos"
+    },
+    {
+        "id": 356,
+        "titlu": "Sangele elfilor",
+        "autor": "Andrzej Sapkowski",
+        "colectie": "Witcher vol 3",
+        "editura": "Armada",
+        "locatie": "Biblioteca camera stanga jos"
+    },
+    {
+        "id": 357,
+        "titlu": "Vremea dispretului",
+        "autor": "Andrzej Sapkowski",
+        "colectie": "Witcher vol 4",
+        "editura": "Armada",
+        "locatie": "Biblioteca camera stanga jos"
+    },
+    {
+        "id": 358,
+        "titlu": "Botezul focului",
+        "autor": "Andrzej Sapkowski",
+        "colectie": "Witcher vol 5",
+        "editura": "Armada",
+        "locatie": "Biblioteca camera stanga jos"
+    },
+    {
+        "id": 359,
+        "titlu": "Domnita lacului",
+        "autor": "Andrzej Sapkowski",
+        "colectie": "Witcher vol 7",
+        "editura": "Armada",
+        "locatie": "Biblioteca camera stanga jos"
+    },
+    {
+        "id": 360,
+        "titlu": "Anotimpul furtunilor",
+        "autor": "Andrzej Sapkowski",
+        "colectie": "Witcher vol 8",
+        "editura": "Armada",
+        "locatie": "Biblioteca camera stanga jos"
+    },
+    {
+        "id": 361,
+        "titlu": "Anii pierduti",
+        "autor": "T. A. Barron",
+        "colectie": "Merlin vol 1",
+        "editura": "Litera",
+        "locatie": "Biblioteca camera stanga jos"
+    },
+    {
+        "id": 362,
+        "titlu": "Cele sapte canturi",
+        "autor": "T. A. Barron",
+        "colectie": "Merlin vol 2",
+        "editura": "Litera",
+        "locatie": "Biblioteca camera stanga jos"
+    },
+    {
+        "id": 363,
+        "titlu": "Focuri mistuitoare",
+        "autor": "T. A. Barron",
+        "colectie": "Merlin vol 3",
+        "editura": "Litera",
+        "locatie": "Biblioteca camera stanga jos"
+    },
+    {
+        "id": 364,
+        "titlu": "Dosar permanent",
+        "autor": "Edward Snowden",
+        "editura": "Nemira",
+        "locatie": "Biblioteca camera stanga jos"
+    },
+    {
+        "id": 365,
+        "titlu": "Jucatorii de pe titan",
+        "autor": "Philip K. Dick",
+        "editura": "Nautilus",
+        "locatie": "Biblioteca camera stanga jos"
+    },
+    {
+        "id": 366,
+        "titlu": "Hotii din vis",
+        "autor": "Maggie Stiefvater",
+        "colectie": "Fratia corbilor vol 2",
+        "editura": "Nemira",
+        "locatie": "Biblioteca camera stanga jos"
+    },
+    {
+        "id": 367,
+        "titlu": "Razbunarea stramosilor",
+        "autor": "Oisin McGann",
+        "editura": "RAO",
+        "locatie": "Biblioteca camera stanga jos"
+    },
+    {
+        "id": 368,
+        "titlu": "Trei intr-o barca  |  Trei pe doua biciclete",
+        "autor": "Jerome K. Jerome",
+        "editura": "Biblioteca Adevarul",
+        "locatie": "Biblioteca camera stanga jos"
+    },
+    {
+        "id": 369,
+        "titlu": "Acvila legiunii a IX-a",
+        "autor": "Rosemary Sutcliff",
+        "editura": "Litera",
+        "locatie": "Biblioteca camera stanga jos"
+    },
+    {
+        "id": 370,
+        "titlu": "Cartea ororilor vol 1",
+        "autor": "Stephen Jones",
+        "colectie": "Cartea ororilor vol 1",
+        "editura": "Nemira",
+        "locatie": "Biblioteca camera stanga jos"
+    },
+    {
+        "id": 371,
+        "titlu": "Blaze",
+        "autor": "Richard Bachman",
+        "editura": "Nemira",
+        "locatie": "Biblioteca camera stanga jos"
+    },
+    {
+        "id": 372,
+        "titlu": "Fericirea e un ac de siguranta",
+        "autor": "Razvan Exarhu",
+        "editura": "Curtea veche",
+        "locatie": "Biblioteca camera stanga jos"
+    },
+    {
+        "id": 373,
+        "titlu": "Dragonul rosu",
+        "autor": "Thomas Harris",
+        "colectie": "Hannibal Lecter vol 1",
+        "editura": "Lider",
+        "locatie": "Biblioteca camera stanga jos"
+    },
+    {
+        "id": 374,
+        "titlu": "Cum m-am lasat de gandit",
+        "autor": "Hannes Stein",
+        "editura": "Nemira",
+        "locatie": "Biblioteca camera stanga jos"
+    },
+    {
+        "id": 375,
+        "titlu": "Vietile celor 12 Cezari",
+        "autor": "C. Suetonius Tranquillus",
+        "editura": "Paul Editions",
+        "locatie": "Biblioteca camera stanga jos"
+    },
+    {
+        "id": 376,
+        "titlu": "Tratament letal",
+        "autor": "James Dashner",
+        "colectie": "Labirintul vol 3",
+        "editura": "Litera",
+        "locatie": "Biblioteca camera stanga jos"
+    },
+    {
+        "id": 377,
+        "titlu": "Cod: Arsita",
+        "autor": "James Dashner",
+        "colectie": "Labirintul vol 5",
+        "editura": "Litera",
+        "locatie": "Biblioteca camera stanga jos"
+    },
+    {
+        "id": 378,
+        "titlu": "Nasul",
+        "autor": "Mario Puzo",
+        "editura": "RAO",
+        "locatie": "Biblioteca camera stanga jos"
+    },
+    {
+        "id": 379,
+        "titlu": "Insula pierdutilor",
+        "autor": "Melissa de la Cruz",
+        "colectie": "Descendentii vol 1",
+        "editura": "Litera",
+        "locatie": "Biblioteca camera stanga jos"
+    },
+    {
+        "id": 380,
+        "titlu": "Jurnalul unui Adam vol 1",
+        "autor": "Bogdan Marcu",
+        "colectie": "Jurnalul unui Adam vol 1",
+        "editura": "JUA",
+        "locatie": "Biblioteca camera stanga jos"
+    },
+    {
+        "id": 381,
+        "titlu": "Jurnalul unui Adam vol 2 partea 1",
+        "autor": "Bogdan Marcu",
+        "colectie": "Jurnalul unui Adam vol 2 partea 1",
+        "editura": "JUA",
+        "locatie": "Biblioteca camera stanga jos"
+    },
+    {
+        "id": 382,
+        "titlu": "Jurnalul unui Adam vol 2 partea 2",
+        "autor": "Bogdan Marcu",
+        "colectie": "Jurnalul unui Adam vol 2 partea 2",
+        "editura": "JUA",
+        "locatie": "Biblioteca camera stanga jos"
+    },
+    {
+        "id": 383,
+        "titlu": "Minti primejdioase",
+        "autor": "Alexandra Bracken",
+        "colectie": "Minti primejdioase vol 1",
+        "editura": "TREI",
+        "locatie": "Biblioteca camera stanga jos"
+    },
+    {
+        "id": 384,
+        "titlu": "Cand sa jefuiesti o banca",
+        "autor": "Steven D. Levitt & Stephen J. Dubner",
+        "editura": "Publica",
+        "locatie": "Biblioteca camera stanga jos"
+    },
+    {
+        "id": 385,
+        "titlu": "Faraonul vol 1 si 2",
+        "autor": "Prus",
+        "editura": "Editura pentru Literatura Universala",
+        "locatie": "Biblioteca camera stanga jos"
+    },
+    {
+        "id": 386,
+        "titlu": "Omul din castelul inalt",
+        "autor": "Philip K. Dick",
+        "editura": "Nautilus",
+        "locatie": "Biblioteca camera stanga jos"
+    },
+    {
+        "id": 387,
+        "titlu": "Conacul bantuit",
+        "autor": "Jonathan Stroud",
+        "colectie": "Lockwood si asociatii vol 1",
+        "editura": "RAO",
+        "locatie": "Biblioteca camera stanga jos"
+    },
+    {
+        "id": 388,
+        "titlu": "Craniul din biblioteca",
+        "autor": "Jonathan Stroud",
+        "colectie": "Lockwood si asociatii vol 2",
+        "editura": "RAO",
+        "locatie": "Biblioteca camera stanga jos"
+    },
+    {
+        "id": 389,
+        "titlu": "Pradarea marii piramide",
+        "autor": "Katherine Roberts",
+        "colectie": "Cele sapte minuni vol 1",
+        "editura": "RAO",
+        "locatie": "Biblioteca camera stanga jos"
+    },
+    {
+        "id": 390,
+        "titlu": "Intimplari din Babilon",
+        "autor": "Katherine Roberts",
+        "colectie": "Cele sapte minuni vol 2",
+        "editura": "RAO",
+        "locatie": "Biblioteca camera stanga jos"
+    },
+    {
+        "id": 391,
+        "titlu": "Cronica pasarii-arc",
+        "autor": "Haruki Murakami",
+        "editura": "Polirom",
+        "locatie": "Biblioteca camera stanga jos"
+    },
+    {
+        "id": 392,
+        "titlu": "Kafka pe malul marii",
+        "autor": "Haruki Murakami",
+        "editura": "Polirom",
+        "locatie": "Biblioteca camera stanga jos"
+    },
+    {
+        "id": 393,
+        "titlu": "The pocket encyclopedia of aggravation",
+        "autor": "Laura Lee",
+        "locatie": "Biblioteca camera mijloc"
+    },
+    {
+        "id": 394,
+        "titlu": "Captain Marvel",
+        "autor": "Tess Sharpe",
+        "locatie": "Biblioteca camera mijloc"
+    },
+    {
+        "id": 395,
+        "titlu": "Wonder Woman Book of the film",
+        "autor": "Steve Korte",
+        "locatie": "Biblioteca camera mijloc"
+    },
+    {
+        "id": 396,
+        "titlu": "Ask a philosopher",
+        "autor": "Ian Olasov",
+        "locatie": "Biblioteca camera mijloc"
+    },
+    {
+        "id": 397,
+        "titlu": "How not to be american",
+        "autor": "Todd McEwen",
+        "locatie": "Biblioteca camera mijloc"
+    },
+    {
+        "id": 398,
+        "titlu": "A simple life",
+        "autor": "Aleksandr Orlov",
+        "locatie": "Biblioteca camera mijloc"
+    },
+    {
+        "id": 399,
+        "titlu": "Blood hunters",
+        "autor": "Steve Voake",
+        "locatie": "Biblioteca camera mijloc"
+    },
+    {
+        "id": 400,
+        "titlu": "Triss - a tale of redwall",
+        "autor": "Brian Jacques",
+        "colectie": "Redwall vol 15",
+        "locatie": "Biblioteca camera mijloc"
+    },
+    {
+        "id": 401,
+        "titlu": "The manly man\u2019s handbook",
+        "autor": "Nick Harper",
+        "locatie": "Biblioteca camera mijloc"
+    },
+    {
+        "id": 402,
+        "titlu": "Iron Sky Dread Eagle",
+        "autor": "Alex Woolf",
+        "locatie": "Biblioteca camera mijloc"
+    },
+    {
+        "id": 403,
+        "titlu": "Captain America vs Iron Man: Freedom, security, psychology",
+        "autor": "Stan Lee, Travis Langley",
+        "locatie": "Biblioteca camera mijloc"
+    },
+    {
+        "id": 404,
+        "titlu": "Marvel Phase Two: Ant-Man",
+        "autor": "Alex Irvine",
+        "locatie": "Biblioteca camera mijloc"
+    },
+    {
+        "id": 405,
+        "titlu": "Marvel Phase One: Iron Man",
+        "autor": "Alex Irvine",
+        "locatie": "Biblioteca camera mijloc"
+    },
+    {
+        "id": 406,
+        "titlu": "A new York Nightmare!",
+        "autor": "Barry Hutchison",
+        "colectie": "Spectre collectors vol 2",
+        "locatie": "Biblioteca camera mijloc"
+    },
+    {
+        "id": 407,
+        "titlu": "The way to the stars",
+        "autor": "Una McCormack",
+        "colectie": "Star Trek Discovery",
+        "locatie": "Biblioteca camera mijloc"
+    },
+    {
+        "id": 408,
+        "titlu": "The Torchbearers",
+        "autor": "Ally Condie, Brendan Reichs",
+        "colectie": "The Darkdeep vol 3",
+        "locatie": "Biblioteca camera mijloc"
+    },
+    {
+        "id": 409,
+        "titlu": "Abatia portocalului",
+        "autor": "Samantha Shannon",
+        "editura": "Leda Edge",
+        "locatie": "Biblioteca camera mijloc"
+    },
+    {
+        "id": 410,
+        "titlu": "Empire of the vampire",
+        "autor": "Jay Kristoff",
+        "locatie": "Biblioteca camera mijloc"
+    },
+    {
+        "id": 411,
+        "titlu": "Foc & sange",
+        "autor": "George R. R. Martin",
+        "colectie": "Casa dragonului",
+        "editura": "Armada",
+        "locatie": "Biblioteca camera mijloc"
+    },
+    {
+        "id": 412,
+        "titlu": "Crima si pedeapsa",
+        "autor": "F. M. Dostoievski",
+        "editura": "Litera",
+        "locatie": "Biblioteca camera mijloc"
+    },
+    {
+        "id": 413,
+        "titlu": "Greseala lordului Emsworth",
+        "autor": "P. G. Wodehouse",
+        "editura": "Polirom",
+        "locatie": "Biblioteca camera mijloc"
+    },
+    {
+        "id": 414,
+        "titlu": "Garzile mortii",
+        "autor": "John Sandford",
+        "editura": "Nemira",
+        "locatie": "Biblioteca camera mijloc"
+    },
+    {
+        "id": 415,
+        "titlu": "Wunder Smith - Chemarea lui Morrigan Crow",
+        "autor": "Jessica Townsend",
+        "colectie": "Nevermore vol 2",
+        "editura": "Nemi",
+        "locatie": "Biblioteca camera mijloc"
+    },
+    {
+        "id": 416,
+        "titlu": "Ani-lumina",
+        "autor": "Brian Clegg",
+        "editura": "Nemira",
+        "locatie": "Biblioteca camera mijloc"
+    },
+    {
+        "id": 417,
+        "titlu": "Lunetistul american",
+        "autor": "Chris Kyle",
+        "editura": "RAO",
+        "locatie": "Biblioteca camera mijloc"
+    },
+    {
+        "id": 418,
+        "titlu": "Mormantul pasarii de aur",
+        "autor": "Elizabeth Peters",
+        "editura": "RAO",
+        "locatie": "Biblioteca camera mijloc"
+    },
+    {
+        "id": 419,
+        "titlu": "Odiseea capitanului Blood",
+        "autor": "Rafael Sabatini",
+        "editura": "Corint",
+        "locatie": "Biblioteca camera mijloc"
+    },
+    {
+        "id": 420,
+        "titlu": "Canionul Tiranozaurului",
+        "autor": "Douglas Preston",
+        "editura": "RAO",
+        "locatie": "Biblioteca camera mijloc"
+    },
+    {
+        "id": 421,
+        "titlu": "Imperiul pierdut",
+        "autor": "Clive Cussler",
+        "colectie": "Sam and Remi Fargo vol 2",
+        "editura": "Litera",
+        "locatie": "Biblioteca camera mijloc"
+    },
+    {
+        "id": 422,
+        "titlu": "Aurul spartanilor",
+        "autor": "Clive Cussler",
+        "colectie": "Sam and Remi Fargo vol 1",
+        "editura": "Litera",
+        "locatie": "Biblioteca camera mijloc"
+    },
+    {
+        "id": 423,
+        "titlu": "The Falcon\u2019s Malteser",
+        "autor": "Anthony Horowitz",
+        "colectie": "The Diamond brothers in... vol 1",
+        "locatie": "Biblioteca camera mijloc"
+    },
+    {
+        "id": 424,
+        "titlu": "Public enemy number two",
+        "autor": "Anthony Horowitz",
+        "colectie": "The Diamond brothers in... vol 2",
+        "locatie": "Biblioteca camera mijloc"
+    },
+    {
+        "id": 425,
+        "titlu": "South by South East",
+        "autor": "Anthony Horowitz",
+        "colectie": "The Diamond brothers in... vol 3",
+        "locatie": "Biblioteca camera mijloc"
+    },
+    {
+        "id": 426,
+        "titlu": "Four of Diamonds",
+        "autor": "Anthony Horowitz",
+        "colectie": "The Diamond brothers in... vol 4, vol 5, vol 6, vol 7",
+        "isbn": "vol 4 - The French Confection | vol 5: I Know What You Did\rLast Wednesday | vol 6: The Blurred Man | vol 7: The Greek\rWho Stole Christmas",
+        "locatie": "Biblioteca camera mijloc"
+    },
+    {
+        "id": 427,
+        "titlu": "The devil and his boy",
+        "autor": "Anthony Horowitz",
+        "locatie": "Biblioteca camera mijloc"
+    },
+    {
+        "id": 428,
+        "titlu": "The Switch",
+        "autor": "Anthony Horowitz",
+        "locatie": "Biblioteca camera mijloc"
+    },
+    {
+        "id": 429,
+        "titlu": "Granny",
+        "autor": "Anthony Horowitz",
+        "locatie": "Biblioteca camera mijloc"
+    },
+    {
+        "id": 430,
+        "titlu": "Alex Rider - Undercover four secret files",
+        "autor": "Anthony Horowitz",
+        "locatie": "Biblioteca camera mijloc"
+    },
+    {
+        "id": 431,
+        "titlu": "Soul Harvest",
+        "autor": "Edgar J. Hyde",
+        "colectie": "Creepers vol ??",
+        "locatie": "Biblioteca camera mijloc"
+    },
+    {
+        "id": 432,
+        "titlu": "The Scarecrow",
+        "autor": "Edgar J. Hyde",
+        "colectie": "Creepers vol 7",
+        "locatie": "Biblioteca camera mijloc"
+    },
+    {
+        "id": 433,
+        "titlu": "Pretul secant al genunii",
+        "autor": "Adrian Rogoz",
+        "editura": "Nautilus",
+        "locatie": "Biblioteca camera"
+    },
+    {
+        "id": 434,
+        "titlu": "Omul si umbra",
+        "autor": "Oscar Lemnaru",
+        "locatie": "Biblioteca camera mijloc"
+    },
+    {
+        "id": 435,
+        "titlu": "The Hitchhiker\u2019s guide to the galaxy",
+        "autor": "Douglas Adams",
+        "colectie": "Ghidul autostopistului galactic vol 1 - 5",
+        "locatie": "Biblioteca camera mijloc"
+    },
+    {
+        "id": 436,
+        "titlu": "Transformers",
+        "autor": "Alan Dean Foster",
+        "locatie": "Biblioteca camera mijloc"
+    },
+    {
+        "id": 437,
+        "titlu": "Fergus Crane",
+        "autor": "Paul Stewart, Chris Riddell",
+        "colectie": "Aventuri din taramuri indepartate vol 1",
+        "editura": "Nemira junior",
+        "locatie": "Biblioteca camera mijloc"
+    },
+    {
+        "id": 438,
+        "titlu": "Sir Gawain si Cavalerul Verde",
+        "autor": "Michael Morpurgo",
+        "editura": "Nemi",
+        "locatie": "Biblioteca camera mijloc"
+    },
+    {
+        "id": 439,
+        "titlu": "De la A la Witch",
+        "colectie": "W.I.T.C.H",
+        "editura": "Egmont",
+        "locatie": "Biblioteca camera mijloc"
+    },
+    {
+        "id": 440,
+        "titlu": "100 de trucuri pentru a-ti pazi secretele",
+        "colectie": "W.I.T.C.H",
+        "editura": "Egmont",
+        "locatie": "Biblioteca camera mijloc"
+    },
+    {
+        "id": 441,
+        "titlu": "Izvorul cetii",
+        "autor": "Cecilie Eken",
+        "colectie": "W.I.T.C.H vol 2",
+        "editura": "Egmont",
+        "locatie": "Biblioteca camera mijloc"
+    },
+    {
+        "id": 442,
+        "titlu": "Lacul Auriu",
+        "autor": "Josefine Ottesen",
+        "colectie": "W.I.T.C.H vol 5",
+        "editura": "Egmont",
+        "locatie": "Biblioteca camera mijloc"
+    },
+    {
+        "id": 443,
+        "titlu": "Piramida de abanos",
+        "autor": "Ruben Eliassen",
+        "colectie": "W.I.T.C.H vol 4",
+        "editura": "Egmont",
+        "locatie": "Biblioteca camera mijloc"
+    },
+    {
+        "id": 444,
+        "titlu": "Piramida de abanos",
+        "autor": "Ruben Eliassen",
+        "colectie": "W.I.T.C.H vol 4",
+        "editura": "Egmont",
+        "locatie": "Biblioteca camera mijloc"
+    },
+    {
+        "id": 445,
+        "titlu": "Parfumul trandafirului",
+        "autor": "Lene Moller Jorgensen",
+        "colectie": "W.I.T.C.H vol 6",
+        "editura": "Egmont",
+        "locatie": "Biblioteca camera mijloc"
+    },
+    {
+        "id": 446,
+        "titlu": "Atingerea stelelor",
+        "autor": "Lene Moller Jorgensen"
+    },
+    {
+        "id": 447,
+        "editura": "Egmont",
+        "locatie": "Biblioteca camera mijloc"
+    },
+    {
+        "id": 448,
+        "titlu": "Furtunile din Windmor",
+        "autor": "Cecilie Eken",
+        "colectie": "W.I.T.C.H vol 8",
+        "editura": "Egmont",
+        "locatie": "Biblioteca camera mijloc"
+    },
+    {
+        "id": 449,
+        "titlu": "Arhiva lui Sherlock Holmes",
+        "autor": "Arthur Conan Doyle",
+        "colectie": "Sherlock Holmes vol 1",
+        "editura": "Daffi\u2019s Books",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 450,
+        "titlu": "Aventurile lui Sherlock Holmes",
+        "autor": "Arthur Conan Doyle",
+        "colectie": "Sherlock Holmes vol 2",
+        "editura": "Daffi\u2019s Books",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 451,
+        "titlu": "Cainele din Baskerville",
+        "autor": "Arthur Conan Doyle",
+        "colectie": "Sherlock Holmes vol 3",
+        "editura": "Daffi\u2019s Books",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 452,
+        "titlu": "Dincolo de oras",
+        "autor": "Arthur Conan Doyle",
+        "colectie": "Sherlock Holmes vol 4",
+        "editura": "Daffi\u2019s Books",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 453,
+        "titlu": "Intoarcerea lui Sherlock Holmes",
+        "autor": "Arthur Conan Doyle",
+        "colectie": "Sherlock Holmes vol 5",
+        "editura": "Daffi\u2019s Books",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 454,
+        "titlu": "Memoriile lui Sherlock Holmes",
+        "autor": "Arthur Conan Doyle",
+        "colectie": "Sherlock Holmes vol 6",
+        "editura": "Daffi\u2019s Books",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 455,
+        "titlu": "Semnul celor patru",
+        "autor": "Arthur Conan Doyle",
+        "colectie": "Sherlock Holmes vol 7",
+        "editura": "Daffi\u2019s Books",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 456,
+        "titlu": "Testamentul lui Sherlock Holmes",
+        "autor": "Arthur Conan Doyle",
+        "colectie": "Sherlock Holmes vol 8",
+        "editura": "Daffi\u2019s Books",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 457,
+        "titlu": "Un studiu in rosu",
+        "autor": "Arthur Conan Doyle",
+        "colectie": "Sherlock Holmes vol 9",
+        "editura": "Daffi\u2019s Books",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 458,
+        "titlu": "Valea terorii",
+        "autor": "Arthur Conan Doyle",
+        "colectie": "Sherlock Holmes vol 10",
+        "editura": "Daffi\u2019s Books",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 459,
+        "titlu": "Firma Girdlestone",
+        "autor": "Arthur Conan Doyle",
+        "editura": "Vivaldi",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 460,
+        "titlu": "Programarea orientata pe obiecte - Lucrari de laborator",
+        "autor": "Claudia Botez, Denis Bogdanas, Violeta Diaconu",
+        "colectie": "Carti facultate",
+        "editura": "Politehnium",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 461,
+        "titlu": "Limbajul C de la zero la student",
+        "autor": "Mihai Horia Zaharia, Florin Leon",
+        "colectie": "Carti facultate",
+        "editura": "Politehnium",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 462,
+        "titlu": "Limbajul Turbo Pascal vol 1",
+        "autor": "Doina Rancea",
+        "colectie": "Carti facultate",
+        "editura": "Libris",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 463,
+        "titlu": "Paradoxuri si axiome - Fundamente ale matematicii",
+        "autor": "Nelo Maestre Blanco",
+        "colectie": "Mari idei ale matematicii vol 4",
+        "editura": "Litera",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 464,
+        "titlu": "Ipoteza lui Riemann",
+        "autor": "Jorge Jim\u00e9nez Urroz",
+        "colectie": "Mari idei ale matematicii vol 5",
+        "editura": "Litera",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 465,
+        "titlu": "Revolutia algebrei. Nasterea teoriei grupurilor",
+        "autor": "Jorge Calero Sanz",
+        "colectie": "Mari idei ale matematicii vol 6",
+        "editura": "Litera",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 466,
+        "titlu": "Numere irationale",
+        "autor": "Bartolo Luque, Jorge Calero",
+        "colectie": "Mari idei ale matematicii vol 7",
+        "editura": "Litera",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 467,
+        "titlu": "Calatorie prin spatii N-dimensionale",
+        "autor": "Esteban Ferrer Vaccarezza, Soledad Le Clainche Martinez",
+        "colectie": "Mari idei ale matematicii vol 8",
+        "editura": "Litera",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 468,
+        "titlu": "Solaris",
+        "autor": "Stanislaw Lem",
+        "editura": "Paladin",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 469,
+        "titlu": "Fundatia",
+        "autor": "Isaac Asimov",
+        "colectie": "Fundatia vol 1",
+        "editura": "Paladin",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 470,
+        "titlu": "Endymion Spring",
+        "autor": "Matthew Skelton",
+        "editura": "Corint Junior",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 471,
+        "titlu": "Asasinul Anders si lumea pe intelesul tuturor",
+        "autor": "Jonas Jonasson",
+        "editura": "TREI",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 472,
+        "titlu": "O sa-mi manance pisica ochii?",
+        "autor": "Caitlin Doughty",
+        "editura": "Nemira",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 473,
+        "titlu": "Tonul universal",
+        "autor": "Carlos Santana",
+        "colectie": "Biografie",
+        "editura": "Nemira",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 474,
+        "titlu": "Silozul",
+        "autor": "Hugh Howey",
+        "colectie": "Silozul vol 1",
+        "editura": "Nemira",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 475,
+        "titlu": "Dirk Gently. Agentia de investigatii holistice",
+        "autor": "Douglas Adams",
+        "editura": "Armada",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 476,
+        "titlu": "Arhanghelul Raul",
+        "autor": "Ovidiu Eftimie",
+        "editura": "Nautilus",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 477,
+        "titlu": "6 povesti cu draci",
+        "autor": "Igor Bergler",
+        "editura": "Litera",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 478,
+        "titlu": "Jurnalul lui Dracula junior",
+        "autor": "Nana Pit",
+        "editura": "Integral",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 479,
+        "titlu": "Secretul Nebula",
+        "autor": "Trudi Trueit",
+        "colectie": "Explorer Academy vol 1",
+        "editura": "Litera",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 480,
+        "titlu": "Pana soimului",
+        "autor": "Trudi Trueit",
+        "colectie": "Explorer Academy vol 2",
+        "editura": "Litera",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 481,
+        "titlu": "The rotten Romans",
+        "autor": "Terry Deary",
+        "colectie": "Horrible Histories",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 482,
+        "titlu": "The slimy Stuarts",
+        "autor": "Terry Deary",
+        "colectie": "Horrible Histories",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 483,
+        "titlu": "Woeful second world war",
+        "autor": "Terry Deary",
+        "colectie": "Horrible Histories",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 484,
+        "titlu": "Awful egyptians",
+        "autor": "Terry Deary",
+        "colectie": "Horrible Histories",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 485,
+        "titlu": "Groovy Greeks",
+        "autor": "Terry Deary",
+        "colectie": "Horrible Histories",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 486,
+        "titlu": "Percy Jackson and the sword of Hades",
+        "autor": "Rick Riordan",
+        "colectie": "Percy Jackson",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 487,
+        "titlu": "Raging rivers",
+        "autor": "Anita Ganeri",
+        "colectie": "Horrible Geography",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 488,
+        "titlu": "Arta razboiului",
+        "autor": "Sun Tzu",
+        "editura": "Cartex",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 489,
+        "titlu": "Masina timpului | Razboiului lumilor",
+        "autor": "Herbert George Wells",
+        "editura": "David Litera",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 490,
+        "titlu": "Straniul caz al doctorului Jekyll si al domnului Hyde",
+        "autor": "Robert Louis Stevenson",
+        "editura": "Spot",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 491,
+        "titlu": "Depozitul",
+        "autor": "Rob Hart",
+        "editura": "Armada",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 492,
+        "titlu": "The millionaire messenger",
+        "autor": "Brendon Burchard",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 493,
+        "titlu": "Atlantida",
+        "autor": "W. Scott-Elliot",
+        "editura": "Calin",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 494,
+        "titlu": "Nici o veste de la Gurb",
+        "autor": "Eduardo Mendoza",
+        "editura": "Humanitas",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 495,
+        "titlu": "Agentul cel mai mic",
+        "autor": "Alex de Campi, Edo Fuijkschot",
+        "colectie": "Agentul Boo vol 1",
+        "editura": "Nemira",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 496,
+        "titlu": "Prima misiune oficiala",
+        "autor": "Alex de Campi, Edo Fuijkschot",
+        "colectie": "Agentul Boo vol 2",
+        "editura": "Nemira",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 497,
+        "titlu": "Neindemanaticul Kung Fu si superkarateka vol 1",
+        "autor": "D.J. Milky, Mark Seidenberg",
+        "colectie": "Neindemanaticul Kung Fu si superkarateka vol 1",
+        "editura": "Nemira",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 498,
+        "titlu": "Neindemanaticul Kung Fu si superkarateka vol 2",
+        "autor": "D.J. Milky, Mark Seidenberg",
+        "colectie": "Neindemanaticul Kung Fu si superkarateka vol 2",
+        "editura": "Nemira",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 499,
+        "titlu": "Cum sa fentezi blestemul unui dragon",
+        "autor": "Cressida Cowell",
+        "colectie": "Sughit Strasnicul Stavrid al III-lea vol 4",
+        "editura": "Nemi",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 500,
+        "titlu": "B*ll*cks! Why didn\u2019t I think of that?",
+        "autor": "David & Charles",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 501,
+        "titlu": "Vampirul din Sussex",
+        "autor": "Arthur Conan Doyle",
+        "editura": "Vremea",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 502,
+        "titlu": "Calea fulgerului",
+        "autor": "Rebecca Roanhorse",
+        "colectie": "A sasea lume vol 1",
+        "editura": "Armada",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 503,
+        "titlu": "Nocturna",
+        "autor": "Maya Motayne",
+        "editura": "Nemira",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 504,
+        "titlu": "Masinaria Rock and Roll",
+        "autor": "Norman Spinrad",
+        "editura": "Nemira",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 505,
+        "titlu": "Tropicul serpilor",
+        "autor": "Marie Brennan",
+        "colectie": "Istoria naturala a dragonilor vol 2",
+        "editura": "Nautilus Fantasy",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 506,
+        "titlu": "Immortality inc.",
+        "autor": "Robert Sheckley",
+        "editura": "Dexon",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 507,
+        "titlu": "Sfantu\u2019 asteapta",
+        "autor": "Raymond Queneau",
+        "colectie": "Colectiile cotidianului",
+        "editura": "Univers",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 508,
+        "titlu": "The truth about you",
+        "autor": "Andrew N. Williams",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 509,
+        "titlu": "Taramul verii",
+        "autor": "Hannu Rajaniemi",
+        "editura": "Armada",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 510,
+        "titlu": "Simon Beckett",
+        "autor": "Chimia mortii",
+        "editura": "TREI",
+        "locatie": "Cutie 5 mama"
+    },
+    {
+        "id": 511,
+        "titlu": "Cele doua vieti ale Lydiei Bird",
+        "autor": "Josie Silver",
+        "editura": "Nemira",
+        "locatie": "Cutie 5 mama"
+    },
+    {
+        "id": 512,
+        "titlu": "Nefertiti regina Nilului",
+        "autor": "Guy Rachet",
+        "editura": "Lucman",
+        "locatie": "Cutie 5 mama"
+    },
+    {
+        "id": 513,
+        "titlu": "Cercul magic al lunii negre",
+        "autor": "Cari Thomas",
+        "editura": "Bookzone",
+        "locatie": "Cutie 5 mama"
+    },
+    {
+        "id": 514,
+        "titlu": "Toti sfintii rebeli",
+        "autor": "Maggie Stiefvater",
+        "editura": "Young Armada",
+        "locatie": "Cutie 5 mama"
+    },
+    {
+        "id": 515,
+        "titlu": "Misterul ulmului",
+        "autor": "Tana French",
+        "editura": "Armada",
+        "locatie": "Cutie 5 mama"
+    },
+    {
+        "id": 516,
+        "titlu": "Reteaua soaptelor",
+        "autor": "Chandler Baker",
+        "editura": "Armada",
+        "locatie": "Cutie 5 mama"
+    },
+    {
+        "id": 517,
+        "titlu": "Evvie Drake o ia de la capat",
+        "autor": "Linda Holmes",
+        "editura": "Nemira",
+        "locatie": "Cutie 5 mama"
+    },
+    {
+        "id": 518,
+        "titlu": "Diavolul capcana amintirilor",
+        "autor": "Kerri Maniscalco",
+        "colectie": "Anchetele lui Audrey Rose vol 4",
+        "editura": "Leda Edge",
+        "locatie": "Cutie 5 mama"
+    },
+    {
+        "id": 519,
+        "titlu": "Imperiul de fildes",
+        "autor": "Naomi Novik",
+        "colectie": "Temeraire vol 4",
+        "editura": "Nemira",
+        "locatie": "Cutie 5 mama"
+    },
+    {
+        "id": 520,
+        "titlu": "Victoria vulturilor",
+        "autor": "Naomi Novik",
+        "colectie": "Temeraire vol 5",
+        "editura": "Nemira",
+        "locatie": "Cutie 5 mama"
+    },
+    {
+        "id": 521,
+        "titlu": "The unofficial Pokemon GO field guide",
+        "autor": "Ivy St. Ive",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 522,
+        "titlu": "Adio, zahar",
+        "autor": "Molly Carmel",
+        "editura": "Publisol",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 523,
+        "titlu": "Au ursii koala amprente?",
+        "autor": "Cressida Cowell",
+        "colectie": "Detectivii princhidel",
+        "editura": "Hodder Ro",
+        "locatie": "Biblioteca camera stanga sus"
+    },
+    {
+        "id": 524,
+        "titlu": "The scream of the haunted mask",
+        "autor": "R. L. Stine",
+        "colectie": "Goosebumps HorrorLand vol 4",
+        "locatie": "Biblioteca camera stanga sus"
+    },
+    {
+        "id": 525,
+        "titlu": "Blestemul preotesei",
+        "autor": "R. L. Stine",
+        "colectie": "Goosebumps",
+        "editura": "Miron",
+        "locatie": "Biblioteca camera stanga sus"
+    },
+    {
+        "id": 526,
+        "titlu": "Paianjenul ataca",
+        "autor": "R. L. Stine",
+        "colectie": "Goosebumps",
+        "editura": "Miron",
+        "locatie": "Biblioteca camera stanga sus"
+    },
+    {
+        "id": 527,
+        "titlu": "Nu coboriti in pivnita!",
+        "autor": "R. L. Stine",
+        "colectie": "Goosebumps vol 2",
+        "editura": "RAO",
+        "locatie": "Biblioteca camera stanga sus"
+    },
+    {
+        "id": 528,
+        "titlu": "Singe de monstru",
+        "autor": "R. L. Stine",
+        "colectie": "Goosebumps vol 3",
+        "editura": "RAO",
+        "locatie": "Biblioteca camera stanga sus"
+    },
+    {
+        "id": 529,
+        "titlu": "Zimbeste si mori",
+        "autor": "R. L. Stine",
+        "colectie": "Goosebumps vol 4",
+        "editura": "RAO",
+        "locatie": "Biblioteca camera stanga sus"
+    },
+    {
+        "id": 530,
+        "titlu": "Blestemul mumiei",
+        "autor": "R. L. Stine",
+        "colectie": "Goosebumps vol 5",
+        "editura": "RAO",
+        "locatie": "Biblioteca camera stanga sus"
+    },
+    {
+        "id": 531,
+        "titlu": "Sa devenim invizibili!",
+        "autor": "R. L. Stine",
+        "colectie": "Goosebumps vol 6",
+        "editura": "RAO",
+        "locatie": "Biblioteca camera stanga sus"
+    },
+    {
+        "id": 532,
+        "titlu": "Noaptea papusii",
+        "autor": "R. L. Stine",
+        "colectie": "Goosebumps vol 7",
+        "editura": "RAO",
+        "locatie": "Biblioteca camera stanga sus"
+    },
+    {
+        "id": 533,
+        "titlu": "Bun venit in tabara de cosmar!",
+        "autor": "R. L. Stine",
+        "colectie": "Goosebumps vol 8",
+        "editura": "RAO",
+        "locatie": "Biblioteca camera stanga sus"
+    },
+    {
+        "id": 534,
+        "titlu": "Fantoma din vecini",
+        "autor": "R. L. Stine",
+        "colectie": "Goosebumps vol 9",
+        "editura": "RAO",
+        "locatie": "Biblioteca camera stanga sus"
+    },
+    {
+        "id": 535,
+        "titlu": "Fetita care a strigat: \u201cMonstrul!\u201d",
+        "autor": "R. L. Stine",
+        "colectie": "Goosebumps vol 10",
+        "editura": "RAO",
+        "locatie": "Biblioteca camera stanga sus"
+    },
+    {
+        "id": 536,
+        "titlu": "Razbunarea piticilor de gradina",
+        "autor": "R. L. Stine",
+        "colectie": "Goosebumps vol 11",
+        "editura": "RAO",
+        "locatie": "Biblioteca camera stanga sus"
+    },
+    {
+        "id": 537,
+        "editura": "RAO "
+    },
+    {
+        "id": 538,
+        "titlu": "Fantoma de la teatru",
+        "autor": "R. L. Stine",
+        "colectie": "Goosebumps vol 13",
+        "editura": "RAO",
+        "locatie": "Biblioteca camera stanga sus"
+    },
+    {
+        "id": 539,
+        "titlu": "O zi in tinutul ororilor",
+        "autor": "R. L. Stine",
+        "colectie": "Goosebumps vol 14",
+        "editura": "RAO",
+        "locatie": "Biblioteca camera stanga sus"
+    },
+    {
+        "id": 540,
+        "titlu": "Nu ma puteti speria!",
+        "autor": "R. L. Stine",
+        "colectie": "Goosebumps vol 15",
+        "editura": "RAO",
+        "locatie": "Biblioteca camera stanga sus"
+    },
+    {
+        "id": 541,
+        "editura": "RAO "
+    },
+    {
+        "id": 542,
+        "titlu": "Cosmarul din tabara regelui marmelada",
+        "autor": "R. L. Stine",
+        "colectie": "Goosebumps vol 17",
+        "editura": "RAO",
+        "locatie": "Biblioteca camera stanga sus"
+    },
+    {
+        "id": 543,
+        "titlu": "Atacul mutantilor",
+        "autor": "R. L. Stine",
+        "colectie": "Goosebumps vol 18",
+        "editura": "RAO",
+        "locatie": "Biblioteca camera stanga sus"
+    },
+    {
+        "id": 544,
+        "titlu": "O aventura paroasa",
+        "autor": "R. L. Stine",
+        "colectie": "Goosebumps vol 19",
+        "editura": "RAO",
+        "locatie": "Biblioteca camera stanga sus"
+    },
+    {
+        "id": 545,
+        "titlu": "Necazuri mari",
+        "autor": "R. L. Stine",
+        "colectie": "Goosebumps vol 20",
+        "editura": "RAO",
+        "locatie": "Biblioteca camera stanga sus"
+    },
+    {
+        "id": 546,
+        "titlu": "Fantoma latratoare",
+        "autor": "R. L. Stine",
+        "colectie": "Goosebumps vol 21",
+        "editura": "RAO",
+        "locatie": "Biblioteca camera stanga sus"
+    },
+    {
+        "id": 547,
+        "titlu": "Varcolacul din mlastina Fever",
+        "autor": "R. L. Stine",
+        "colectie": "Goosebumps vol 22",
+        "editura": "RAO",
+        "locatie": "Biblioteca camera stanga sus"
+    },
+    {
+        "id": 548,
+        "titlu": "Caracatita povestiri",
+        "autor": "Ian Fleming",
+        "colectie": "James Bond vol 1",
+        "editura": "Biblioteca Universala",
+        "locatie": "Biblioteca camera stanga sus"
+    },
+    {
+        "id": 549,
+        "titlu": "Casino royale",
+        "autor": "Ian Fleming",
+        "colectie": "James Bond vol 2",
+        "editura": "Biblioteca Universala",
+        "locatie": "Biblioteca camera stanga sus"
+    },
+    {
+        "id": 550,
+        "titlu": "Pe cine nu lasi sa moara...",
+        "autor": "Ian Fleming",
+        "colectie": "James Bond vol 3",
+        "editura": "Biblioteca Universala",
+        "locatie": "Biblioteca camera stanga sus"
+    },
+    {
+        "id": 551,
+        "titlu": "Vremurile terorii",
+        "autor": "Justin Somper",
+        "colectie": "Vampiratii vol 2",
+        "editura": "Corint Junior",
+        "locatie": "Biblioteca camera stanga sus"
+    },
+    {
+        "id": 552,
+        "titlu": "Capitanul sangelui",
+        "autor": "Justin Somper",
+        "colectie": "Vampiratii vol 3",
+        "editura": "Corint Junior",
+        "locatie": "Biblioteca camera stanga sus"
+    },
+    {
+        "id": 553,
+        "titlu": "Ucenicul vraciului",
+        "autor": "Joseph Delaney",
+        "colectie": "Cronicile Wardstone vol 1",
+        "editura": "Corint Junior",
+        "locatie": "Biblioteca camera stanga sus"
+    },
+    {
+        "id": 554,
+        "titlu": "Blestemul vraciului",
+        "autor": "Joseph Delaney",
+        "colectie": "Cronicile Wardstone vol 2",
+        "editura": "Corint Junior",
+        "locatie": "Biblioteca camera stanga sus"
+    },
+    {
+        "id": 555,
+        "titlu": "Secretul vraciului",
+        "autor": "Joseph Delaney",
+        "colectie": "Cronicile Wardstone vol 3",
+        "editura": "Corint Junior",
+        "locatie": "Biblioteca camera stanga sus"
+    },
+    {
+        "id": 556,
+        "titlu": "Spook\u2019s: Slither\u2019s tale",
+        "autor": "Joseph Delaney",
+        "colectie": "The Wardstone Chronicles vol 11",
+        "locatie": "Biblioteca camera stanga sus"
+    },
+    {
+        "id": 557,
+        "titlu": "Spook\u2019s: Alice",
+        "autor": "Joseph Delaney",
+        "colectie": "The Wardstone Chronicles vol 12",
+        "locatie": "Biblioteca camera stanga sus"
+    },
+    {
+        "id": 558,
+        "titlu": "Spook\u2019s: Revenge",
+        "autor": "Joseph Delaney",
+        "colectie": "The Wardstone Chronicles vol 13",
+        "locatie": "Biblioteca camera stanga sus"
+    },
+    {
+        "id": 559,
+        "titlu": "Cartea fantastica",
+        "autor": "Tony DiTerlizzi, Holly Black",
+        "colectie": "Cronicile Spiderwick vol 1",
+        "editura": "RAO",
+        "locatie": "Biblioteca camera stanga sus"
+    },
+    {
+        "id": 560,
+        "titlu": "Ochiul magic",
+        "autor": "Tony DiTerlizzi, Holly Black",
+        "colectie": "Cronicile Spiderwick vol 2",
+        "editura": "RAO",
+        "locatie": "Biblioteca camera stanga sus"
+    },
+    {
+        "id": 561,
+        "titlu": "In ghearele goblinilor",
+        "autor": "Tony DiTerlizzi, Holly Black",
+        "colectie": "Cronicile Spiderwick vol 3",
+        "editura": "RAO",
+        "locatie": "Biblioteca camera stanga sus"
+    },
+    {
+        "id": 562,
+        "titlu": "Morti pana la apus",
+        "autor": "Charlaine Harris",
+        "colectie": "Vampirii sudului vol 1",
+        "editura": "Leda",
+        "locatie": "Biblioteca camera stanga sus"
+    },
+    {
+        "id": 563,
+        "titlu": "Casa de sticla partea 1",
+        "autor": "Rachel Caine",
+        "colectie": "Vampirii din Morganville vol 1 partea 1",
+        "editura": "Leda",
+        "locatie": "Biblioteca camera stanga sus"
+    },
+    {
+        "id": 564,
+        "titlu": "Casa de sticla partea 2",
+        "autor": "Rachel Caine",
+        "colectie": "Vampirii din Morganville vol 1 partea 2",
+        "editura": "Leda",
+        "locatie": "Biblioteca camera stanga sus"
+    },
+    {
+        "id": 565,
+        "titlu": "Balul fetelor moarte",
+        "autor": "Rachel Caine",
+        "colectie": "Vampirii din Morganville vol 2 partea 1",
+        "editura": "Leda",
+        "locatie": "Biblioteca camera stanga sus"
+    },
+    {
+        "id": 566,
+        "titlu": "Balul fetelor moarte",
+        "autor": "Rachel Caine",
+        "colectie": "Vampirii din Morganville vol 2 partea 2",
+        "editura": "Leda",
+        "locatie": "Biblioteca camera stanga sus"
+    },
+    {
+        "id": 567,
+        "titlu": "Umbrele ghetii",
+        "autor": "Richard A. Knaak, Jae Hwan Kim",
+        "colectie": "Warcraft Izvorul soarelui vol 2",
+        "editura": "Corint Teens",
+        "locatie": "Biblioteca camera stanga sus"
+    },
+    {
+        "id": 568,
+        "titlu": "Tinuturile Bantuite",
+        "autor": "Richard A. Knaak, Jae Hwan Kim",
+        "colectie": "Warcraft Izvorul soarelui vol 3",
+        "editura": "Corint Teens",
+        "locatie": "Biblioteca camera stanga sus"
+    },
+    {
+        "id": 569,
+        "titlu": "Zepha the monster squid",
+        "autor": "Adam Blade",
+        "colectie": "Beast Quest The golden armour vol 7",
+        "locatie": "Biblioteca camera stanga sus"
+    },
+    {
+        "id": 570,
+        "titlu": "Claw the giant monkey",
+        "autor": "Adam Blade",
+        "colectie": "Beast Quest The golden armour vol 8",
+        "locatie": "Biblioteca camera stanga sus"
+    },
+    {
+        "id": 571,
+        "titlu": "Soltra the stone charmer",
+        "autor": "Adam Blade",
+        "colectie": "Beast Quest The golden armour vol 9",
+        "locatie": "Biblioteca camera stanga sus"
+    },
+    {
+        "id": 572,
+        "titlu": "Spiros the ghost phoenix",
+        "autor": "Adam Blade",
+        "colectie": "Beast Quest vol ??",
+        "locatie": "Biblioteca camera stanga sus"
+    },
+    {
+        "id": 573,
+        "titlu": "Dincolo de padurea intunecata",
+        "autor": "Paul Stewart, Chris Riddell",
+        "colectie": "Cronicile lumii de margine vol 1",
+        "editura": "Corint Junior",
+        "locatie": "Biblioteca camera stanga sus"
+    },
+    {
+        "id": 574,
+        "titlu": "Vanatorul de furtuni",
+        "autor": "Paul Stewart, Chris Riddell",
+        "colectie": "Cronicile lumii de margine vol 2",
+        "editura": "Corint Junior",
+        "locatie": "Biblioteca camera stanga sus"
+    },
+    {
+        "id": 575,
+        "titlu": "Noapte peste Sanctafrax",
+        "autor": "Paul Stewart, Chris Riddell",
+        "colectie": "Cronicile lumii de margine vol 3",
+        "editura": "Corint Junior",
+        "locatie": "Biblioteca camera stanga sus"
+    },
+    {
+        "id": 576,
+        "titlu": "Cronicile lumii de margine Harti",
+        "autor": "Paul Stewart, Chris Riddell",
+        "colectie": "Cronicile lumii de margine vol 0.5",
+        "editura": "Corint Junior",
+        "locatie": "Biblioteca camera stanga sus"
+    },
+    {
+        "id": 577,
+        "titlu": "Urzeala tronurilor",
+        "autor": "George R.R. Martin",
+        "colectie": "Saga cantec de gheata si foc vol 1",
+        "editura": "Nemira",
+        "locatie": "Biblioteca camera stanga sus"
+    },
+    {
+        "id": 578,
+        "titlu": "Akhnaton si djinnii captivi",
+        "autor": "P. B. Kerr",
+        "colectie": "Copii lampii fermecate vol 1",
+        "editura": "Corint Junior",
+        "locatie": "Biblioteca camera stanga sus"
+    },
+    {
+        "id": 579,
+        "titlu": "Serpii din Arakesh",
+        "autor": "V. M. Jones",
+        "colectie": "Karazan vol 1",
+        "editura": "Corint Junior",
+        "locatie": "Biblioteca camera stanga sus"
+    },
+    {
+        "id": 580,
+        "titlu": "Jocurile foamei",
+        "autor": "Suzanne Collins",
+        "colectie": "Hunger games vol 1",
+        "editura": "Nemira",
+        "locatie": "Biblioteca camera stanga sus"
+    },
+    {
+        "id": 581,
+        "titlu": "The picture of Dorian Gray",
+        "autor": "Oscar Wilde",
+        "locatie": "Biblioteca camera stanga sus"
+    },
+    {
+        "id": 582,
+        "titlu": "Ghidul barmanului",
+        "autor": "Kathy Hamlin",
+        "editura": "M.A.S.T",
+        "locatie": "Biblioteca camera stanga sus"
+    },
+    {
+        "id": 583,
+        "titlu": "Cum l-am mancat pe tata",
+        "autor": "Roy Lewis",
+        "editura": "Biblioteca Polirom",
+        "locatie": "Biblioteca camera stanga sus"
+    },
+    {
+        "id": 584,
+        "editura": "Integral "
+    },
+    {
+        "id": 585
+    },
+    {
+        "id": 586,
+        "titlu": "Loki where mischief lies",
+        "autor": "Mackenzi Lee",
+        "locatie": "Biblioteca camera stanga sus"
+    },
+    {
+        "id": 587,
+        "titlu": "Harry Potter si piatra filozofala",
+        "autor": "J. K. Rowling",
+        "colectie": "Harry Potter vol 1",
+        "editura": "Egmont",
+        "locatie": "Biblioteca camera stanga sus"
+    },
+    {
+        "id": 588,
+        "titlu": "Harry Potter si camera secretelor",
+        "autor": "J. K. Rowling",
+        "colectie": "Harry Potter vol 2",
+        "editura": "Egmont",
+        "locatie": "Biblioteca camera stanga sus"
+    },
+    {
+        "id": 589,
+        "titlu": "Harry Potter si prizonierul din Azkaban",
+        "autor": "J. K. Rowling",
+        "colectie": "Harry Potter vol 3",
+        "editura": "Egmont",
+        "locatie": "Biblioteca camera stanga sus"
+    },
+    {
+        "id": 590,
+        "titlu": "Civil War",
+        "autor": "Mark Millar, Steve McNiven",
+        "colectie": "Marvel Must-have vol 1",
+        "editura": "Litera",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 591,
+        "titlu": "Avengers despartirea",
+        "autor": "Brian M. Benois, David Finch",
+        "colectie": "Marvel Must-have vol 2",
+        "editura": "Litera",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 592,
+        "titlu": "Spider-man. Universul Spider-man",
+        "autor": "Dan Slott, Olivier Coipel, Giuseppe Camuncoli",
+        "colectie": "Marvel Must-have vol 3",
+        "editura": "Litera",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 593,
+        "titlu": "Wolverine. Batranul Logan",
+        "autor": "Mark Millar, Steve McNiven",
+        "colectie": "Marvel Must-have vol 4",
+        "editura": "Litera",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 594,
+        "editura": "Litera "
+    },
+    {
+        "id": 595,
+        "titlu": "Thanos. Origini",
+        "autor": "Jason Aaron, Simone Bianchi",
+        "colectie": "Marvel Must-have vol 6",
+        "editura": "Litera",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 596,
+        "titlu": "Daredevil. Omul fara frica",
+        "autor": "Frank Miller, John Romita Jr",
+        "colectie": "Marvel Must-have vol 7",
+        "editura": "Litera",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 597,
+        "titlu": "Ultimate Spider-man. Miles Morales",
+        "autor": "Brian M. Bendis, Sara Pichelli",
+        "colectie": "Marvel Must-have vol 8",
+        "editura": "Litera",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 598,
+        "titlu": "Ms. Marvel: metamorfoza",
+        "autor": "G. Willow Wilson, Adrian Alphona",
+        "colectie": "Marvel Must-have vol 9",
+        "editura": "Litera",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 599,
+        "titlu": "Wolverine. Moartea lui Wolverine",
+        "autor": "Charles Soule, Steve McNiven",
+        "colectie": "Marvel Must-have vol 10",
+        "editura": "Litera",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 600,
+        "titlu": "Manusa infinitului",
+        "autor": "Jim Starlin, George Perez, Ron Lim",
+        "colectie": "Marvel Must-have vol 11",
+        "editura": "Litera",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 601,
+        "titlu": "X-men. Povestea Phoenixului intunecat",
+        "autor": "Chris Claremont, John Byrne",
+        "colectie": "Marvel Must-have vol 12",
+        "editura": "Litera",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 602,
+        "editura": "Litera "
+    },
+    {
+        "id": 603,
+        "titlu": "Venom. Nasterea raului",
+        "autor": "Zeb Wells, Angel Medna",
+        "colectie": "Marvel Must-have vol 14",
+        "editura": "Litera",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 604,
+        "titlu": "Fantastic Four. Marvel Knights 4",
+        "autor": "Roberto Aguirre-Sacasa, Steve McNiven",
+        "colectie": "Marvel Must-have vol 15",
+        "editura": "Litera",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 605,
+        "titlu": "Black Panther. Cine este Black Panther?",
+        "autor": "Reginald Hudlin, John Romita Jr",
+        "colectie": "Marvel Must-have vol 16",
+        "editura": "Litera",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 606,
+        "titlu": "Spider-Man. Ultima infruntare",
+        "autor": "Mark Millar, Terry Dodson, Frank Cho",
+        "colectie": "Marvel Must-have vol 17",
+        "editura": "Litera",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 607,
+        "titlu": "Punisher. Bine ai revenit, Frank!",
+        "autor": "Garth Ennis, Steve Dillon",
+        "colectie": "Marvel Must-have vol 18",
+        "editura": "Litera",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 608,
+        "titlu": "Captain America. Razboinicul iernii",
+        "autor": "Ed Brubaker, Steve Epting, Michael Lark",
+        "colectie": "Marvel Must-have vol 19",
+        "editura": "Litera",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 609,
+        "titlu": "Fantastic Four. Solutia universala",
+        "autor": "Jonathan Hickman, Dale Eaglesham, Neil Edwards",
+        "colectie": "Marvel Must-have vol 20",
+        "editura": "Litera",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 610,
+        "titlu": "Astonishing X-men. Supradotati",
+        "autor": "Joss Whedon, John Cassaday",
+        "colectie": "Marvel Must-have vol 21",
+        "editura": "Litera",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 611,
+        "titlu": "Casa M",
+        "autor": "Brian M. Bendis, Olivier Coipel",
+        "colectie": "Marvel Must-have vol 22",
+        "editura": "Litera",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 612,
+        "titlu": "Spider-Man. Ultima vanatoare a lui Kraven",
+        "autor": "J.M. DeMatteis, Mike Zeck",
+        "colectie": "Marvel Must-have vol 23",
+        "editura": "Litera",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 613,
+        "titlu": "Deadpool. Razboiul lui Wade Wilson",
+        "autor": "Duane Swierczynski, Jason Pearson",
+        "colectie": "Marvel Must-have vol 24",
+        "editura": "Litera",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 614,
+        "titlu": "X-men. Geneza mutanta 2.0",
+        "autor": "Chris Claremont, Jim Lee",
+        "colectie": "Marvel Must-have vol 25",
+        "editura": "Litera",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 615,
+        "titlu": "New Avengers. Evadarea",
+        "autor": "Brian M. Bendis, David Finch",
+        "colectie": "Marvel Must-have vol 26",
+        "editura": "Litera",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 616,
+        "titlu": "Ultimate Spider-Man. Putere si responsabilitate",
+        "autor": "Brian M. Bendis, Mark Bagley",
+        "colectie": "Marvel Must-have vol 27",
+        "editura": "Litera",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 617,
+        "titlu": "Captain America. Moartea unui vis",
+        "autor": "Ed Brubaker, Steve Epting, Mike Perkins",
+        "colectie": "Marvel Must-have vol 28",
+        "editura": "Litera",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 618,
+        "titlu": "Anihilarea",
+        "autor": "Keith Giffen, Andrea di Vito",
+        "colectie": "Marvel Must-have vol 29",
+        "editura": "Litera",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 619,
+        "titlu": "Marvels",
+        "autor": "Kurt Busiek, Alex Ross",
+        "colectie": "Marvel Must-have vol 30",
+        "editura": "Litera",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 620,
+        "titlu": "Daredevil. Renasterea",
+        "autor": "Frank Miller, David Mazzucchelli",
+        "colectie": "Marvel Must-have vol 31",
+        "editura": "Litera",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 621,
+        "titlu": "Gardienii Galaxiei",
+        "autor": "Brian M. Benois, Steve McNiven, Sara Pichelli",
+        "colectie": "Marvel Must-have vol 32",
+        "editura": "Litera",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 622,
+        "titlu": "Avengers. Regasirea",
+        "autor": "Brian M. Bendis, Alan Davis",
+        "colectie": "Marvel Must-have vol 33",
+        "editura": "Litera",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 623,
+        "titlu": "Asediul",
+        "autor": "Brian M. Bendis, Olivier Coipel",
+        "colectie": "Marvel Must-have vol 34",
+        "editura": "Litera",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 624,
+        "titlu": "Spider-Man/Black Cat. Infernul violentei",
+        "autor": "Kevin Smith, Terry Dodson",
+        "colectie": "Marvel Must-have vol 35",
+        "editura": "Litera",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 625,
+        "titlu": "Iron Man. Extremis",
+        "autor": "Warren Ellis, Adi Granov",
+        "colectie": "Marvel Must-have vol 36",
+        "editura": "Litera",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 626,
+        "titlu": "Thor. Renasterea",
+        "autor": "J.M Straczynski, Olivier Coipel",
+        "colectie": "Marvel Must-have vol 37",
+        "editura": "Litera",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 627,
+        "titlu": "Marvel. invazia secreta",
+        "autor": "Brian M. Bendis, Leinil Francis Yu",
+        "colectie": "Marvel Must-have vol 38",
+        "editura": "Litera",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 628,
+        "titlu": "Uncanny Avengers. Umbra rosie",
+        "autor": "Rick Remender, John Cassaday, Olivier Coipel",
+        "colectie": "Marvel Must-have vol 39",
+        "editura": "Litera",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 629,
+        "titlu": "Daredevil. Sub aripa diavolului",
+        "autor": "Kevin Smith, Joq Quesada",
+        "colectie": "Marvel Must-have vol 40",
+        "editura": "Litera",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 630,
+        "editura": "Litera "
+    },
+    {
+        "id": 631,
+        "titlu": "Wolverine. Arma X",
+        "autor": "Barry Windsor-Smith",
+        "colectie": "Marvel Must-have vol 42",
+        "editura": "Litera",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 632,
+        "titlu": "Wolverine. Inamicul statului",
+        "autor": "Mark Millar, John Romita Jr",
+        "colectie": "Marvel Must-have vol 43",
+        "editura": "Litera",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 633,
+        "titlu": "Marvel zombies. Foamea",
+        "autor": "Robert Kirkman, Sean Phillips",
+        "colectie": "Marvel Must-have vol 44",
+        "editura": "Litera",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 634,
+        "titlu": "Doctor Strange. Juramantul",
+        "autor": "Brian K. Vaughan, Marcos Martin",
+        "colectie": "Marvel Must-have vol 45",
+        "editura": "Litera",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 635,
+        "titlu": "Silver Surfer. Recviem",
+        "autor": "J. Michael Straczynski, Esad Ribic",
+        "colectie": "Marvel Must-have vol 46",
+        "editura": "Litera",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 636,
+        "titlu": "New X-Men. E de la extinctie",
+        "autor": "Grant Morrison, Frank Quitely, Leinil Francis Yu",
+        "colectie": "Marvel Must-have vol 47",
+        "editura": "Litera",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 637,
+        "titlu": "Fata in fata cu frica",
+        "autor": "Matt Fraction, Stuart Immonen",
+        "colectie": "Marvel Must-have vol 48",
+        "editura": "Litera",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 638,
+        "titlu": "Thor. Resurectia",
+        "autor": "Dan Jurgens, John Romita Jr",
+        "colectie": "Marvel Must-have vol 49",
+        "editura": "Litera",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 639,
+        "titlu": "Hulk: razboi total",
+        "autor": "Greg Pak, John Romita Jr",
+        "colectie": "Marvel Must-have vol 50",
+        "editura": "Litera",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 640,
+        "titlu": "Spider-Man. Calvarul",
+        "autor": "Todd McFarlane",
+        "colectie": "Marvel Must-have vol 51",
+        "editura": "Litera",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 641,
+        "titlu": "Wolverine",
+        "autor": "Chris Claremont, Frank Miller",
+        "colectie": "Marvel Must-have vol 52",
+        "editura": "Litera",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 642,
+        "titlu": "New Avengers. Illuminati",
+        "autor": "Brian M. Bendis, Brian Reed, Jim Cheung",
+        "colectie": "Marvel Must-have vol 53",
+        "editura": "Litera",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 643,
+        "titlu": "Razboiul secret",
+        "autor": "Brian M. Bendis, Gabriele Dell\u2019Otto",
+        "colectie": "Marvel Must-have vol 54",
+        "editura": "Litera",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 644,
+        "titlu": "Thanos. Intoarcerea lui Thanos",
+        "autor": "Jeff Lemire, Mike Deodato Jr",
+        "colectie": "Marvel Must-have vol 55",
+        "editura": "Litera",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 645,
+        "editura": "Litera "
+    },
+    {
+        "id": 646,
+        "titlu": "Avengers. Ultron unlimited",
+        "autor": "Kurk Busiek, George Perez, Stuart Immonen",
+        "colectie": "Marvel Must-have vol 57",
+        "editura": "Litera",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 647,
+        "titlu": "Spider-Man. Norocosul Parker",
+        "autor": "Dan Slott, Humberto Ramos",
+        "colectie": "Marvel Must-have vol 58",
+        "editura": "Litera",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 648,
+        "titlu": "Deadpool. Bunul, raul si uratul",
+        "autor": "Gerry Duggan, Brian Posehn, Declan Shalvey, Scott Koblish",
+        "colectie": "Marvel Must-have vol 59",
+        "editura": "Litera",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 649,
+        "titlu": "Avengers forever",
+        "autor": "Kurt Busiek, Carlos Pacheco",
+        "colectie": "Marvel Must-have vol 60",
+        "editura": "Litera",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 650,
+        "editura": "LexShop "
+    },
+    {
+        "id": 651,
+        "titlu": "Deadpool Killustrated. Macelarind povestile celor mai buni autori",
+        "autor": "Cullen Bunn, Matteo Lolli",
+        "editura": "LexShop",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 652,
+        "titlu": "Deadpool il omoara pe Deadpool",
+        "autor": "Bunn, Espin",
+        "editura": "LexShop",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 653,
+        "titlu": "Avengers vs. Ultron",
+        "colectie": "Infruntari legendare vol 1",
+        "editura": "Panini",
+        "locatie": "Biblioteca TV corp"
+    },
+    {
+        "id": 654,
+        "titlu": "Guardians of the Galaxy vs. Thanos",
+        "colectie": "Infruntari legendare vol 2",
+        "editura": "Panini",
+        "locatie": "Biblioteca TV corp"
+    },
+    {
+        "id": 655,
+        "titlu": "Deadpool vs Deadpool",
+        "colectie": "Infruntari legendare vol 3",
+        "editura": "Panini",
+        "locatie": "Biblioteca TV corp"
+    },
+    {
+        "id": 656,
+        "titlu": "X-Men vs. Magneto",
+        "colectie": "Infruntari legendare vol 4",
+        "editura": "Panini",
+        "locatie": "Biblioteca TV corp"
+    },
+    {
+        "id": 657,
+        "titlu": "Spider-man vs. Mysterio",
+        "colectie": "Infruntari legendare vol 5",
+        "editura": "Panini",
+        "locatie": "Biblioteca TV corp"
+    },
+    {
+        "id": 658,
+        "titlu": "Wolverine vs. Sabretooth",
+        "colectie": "Infruntari legendare vol 6",
+        "editura": "Panini",
+        "locatie": "Biblioteca TV corp"
+    },
+    {
+        "id": 659,
+        "titlu": "Venom vs. Spider-man",
+        "colectie": "Infruntari legendare vol 7",
+        "editura": "Panini",
+        "locatie": "Biblioteca TV corp"
+    },
+    {
+        "id": 660,
+        "titlu": "Thor vs. Loki",
+        "colectie": "Infruntari legendare vol 8",
+        "editura": "Panini",
+        "locatie": "Biblioteca TV corp"
+    },
+    {
+        "id": 661,
+        "titlu": "Captain America vs. Red Skull",
+        "colectie": "Infruntari legendare vol 9",
+        "editura": "Panini",
+        "locatie": "Biblioteca TV corp"
+    },
+    {
+        "id": 662,
+        "titlu": "Iron Man vs. Whiplash",
+        "colectie": "Infruntari legendare vol 10",
+        "editura": "Panini",
+        "locatie": "Biblioteca TV corp"
+    },
+    {
+        "id": 663,
+        "titlu": "Preludii si nocturne",
+        "autor": "Neil Gaiman",
+        "colectie": "Sandman graphic novel vol 1",
+        "editura": "Vertigo",
+        "locatie": "Biblioteca TV corp"
+    },
+    {
+        "id": 664,
+        "titlu": "Casa papusii",
+        "autor": "Neil Gaiman",
+        "colectie": "Sandman graphic novel vol 2",
+        "editura": "Vertigo",
+        "locatie": "Biblioteca TV corp"
+    },
+    {
+        "id": 665,
+        "titlu": "Tara visului",
+        "autor": "Neil Gaiman",
+        "colectie": "Sandman graphic novel vol 3",
+        "editura": "Vertigo",
+        "locatie": "Biblioteca TV corp"
+    },
+    {
+        "id": 666,
+        "titlu": "Avengers",
+        "colectie": "Renasterea vol 1",
+        "editura": "Panini",
+        "locatie": "Biblioteca TV corp"
+    },
+    {
+        "id": 667,
+        "titlu": "Black Panther",
+        "colectie": "Renasterea vol 2",
+        "editura": "Panini",
+        "locatie": "Biblioteca TV corp"
+    },
+    {
+        "id": 668,
+        "titlu": "Black Widow",
+        "colectie": "Renasterea vol 3",
+        "editura": "Panini",
+        "locatie": "Biblioteca TV corp"
+    },
+    {
+        "id": 669,
+        "titlu": "Captain America",
+        "colectie": "Renasterea vol 4",
+        "editura": "Panini",
+        "locatie": "Biblioteca TV corp"
+    },
+    {
+        "id": 670,
+        "titlu": "Deadpool",
+        "colectie": "Renasterea vol 5",
+        "editura": "Panini",
+        "locatie": "Biblioteca TV corp"
+    },
+    {
+        "id": 671,
+        "titlu": "Iron Man",
+        "colectie": "Renasterea vol 6",
+        "editura": "Panini",
+        "locatie": "Biblioteca TV corp"
+    },
+    {
+        "id": 672,
+        "titlu": "Phoenix",
+        "colectie": "Renasterea vol 7",
+        "editura": "Panini",
+        "locatie": "Biblioteca TV corp"
+    },
+    {
+        "id": 673,
+        "titlu": "Spider-man",
+        "colectie": "Renasterea vol 8",
+        "editura": "Panini",
+        "locatie": "Biblioteca TV corp"
+    },
+    {
+        "id": 674,
+        "titlu": "Wolverine",
+        "colectie": "Renasterea vol 9",
+        "editura": "Panini",
+        "locatie": "Biblioteca TV corp"
+    },
+    {
+        "id": 675,
+        "titlu": "X-Men",
+        "colectie": "Renasterea vol 10",
+        "editura": "Panini",
+        "locatie": "Biblioteca TV corp"
+    },
+    {
+        "id": 676,
+        "titlu": "Daredevil neinfricatul",
+        "autor": "Miller, Romita Jr.",
+        "editura": "Lex Shop",
+        "locatie": "Biblioteca TV corp"
+    },
+    {
+        "id": 677,
+        "titlu": "Civil War un eveniment Marvel Comics",
+        "autor": "Millar, McNiven, Vines, Hollowell",
+        "editura": "Lex Shop",
+        "locatie": "Biblioteca TV corp"
+    },
+    {
+        "id": 678,
+        "titlu": "Watchmen",
+        "autor": "Alan Moore, Dave Gibbons",
+        "editura": "Grafic",
+        "locatie": "Biblioteca TV corp"
+    },
+    {
+        "id": 679,
+        "titlu": "Ultimate Spider-man",
+        "autor": "Brian Michaels Bendis, Mark Bagley",
+        "colectie": "Ultimate Spider-man #28-32",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 680,
+        "titlu": "Spider-man/Doctor Octopus: Negative Exposure",
+        "colectie": "Spider-man/Doctor Octopus: Negative Exposure #1-5",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 681,
+        "titlu": "The Amazing Spider-Man The Book of Ezekiel",
+        "colectie": "The Amazing Spider-man Volume 1 #503-508",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 682,
+        "titlu": "Ultimate X-men Ultimate War",
+        "colectie": "Ultimate X-War #1-5",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 683,
+        "titlu": "Astonishing X-men Dangerous",
+        "colectie": "Astonishing X-Men #7-12",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 684,
+        "titlu": "X-Men Dream\u2019s End",
+        "colectie": "Uncanny X-Men #388-390, Cable #87, Bishop #16, X-Men\r#108-110",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 685,
+        "titlu": "X-Men Children of the Atom",
+        "colectie": "X-Men Children of the Atom #1-6",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 686,
+        "titlu": "Thor zeul tunetului #1",
+        "autor": "Jason Aaron, Esad Ribic, Dean White",
+        "colectie": "Thor zeul tunetului #1",
+        "editura": "Lex Shop",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 687,
+        "titlu": "Thor zeul tunetului #2",
+        "autor": "Jason Aaron",
+        "colectie": "Thor zeul tunetului #2",
+        "editura": "Lex Shop",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 688,
+        "titlu": "Thor zeul tunetului #3",
+        "autor": "Jason Aaron",
+        "colectie": "Thor zeul tunetului #3",
+        "editura": "Lex Shop",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 689,
+        "titlu": "Thor zeul tunetului #4",
+        "autor": "Jason Aaron",
+        "colectie": "Thor zeul tunetului #4",
+        "editura": "Lex Shop",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 690,
+        "titlu": "Thor zeul tunetului #5",
+        "autor": "Jason Aaron",
+        "colectie": "Thor zeul tunetului #5",
+        "editura": "Lex Shop",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 691,
+        "titlu": "Thor zeul tunetului #6",
+        "autor": "Jason Aaron",
+        "colectie": "Thor zeul tunetului #6",
+        "editura": "Lex Shop",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 692,
+        "titlu": "Thor zeul tunetului #7",
+        "autor": "Jason Aaron",
+        "colectie": "Thor zeul tunetului #7",
+        "editura": "Lex Shop",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 693,
+        "titlu": "Thor zeul tunetului #8",
+        "autor": "Jason Aaron",
+        "colectie": "Thor zeul tunetului #8",
+        "editura": "Lex Shop",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 694,
+        "titlu": "Thor zeul tunetului #9",
+        "autor": "Jason Aaron",
+        "colectie": "Thor zeul tunetului #9",
+        "editura": "Lex Shop",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 695,
+        "titlu": "Thor zeul tunetului #10",
+        "autor": "Jason Aaron",
+        "colectie": "Thor zeul tunetului #10",
+        "editura": "Lex Shop",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 696,
+        "titlu": "Thor zeul tunetului #11",
+        "autor": "Jason Aaron",
+        "colectie": "Thor zeul tunetului #11",
+        "editura": "Lex Shop",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 697,
+        "titlu": "Thor zeul tunetului #12",
+        "autor": "Jason Aaron",
+        "colectie": "Thor zeul tunetului #12",
+        "editura": "Lex Shop",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 698,
+        "titlu": "Thor zeul tunetului #13",
+        "autor": "Jason Aaron",
+        "colectie": "Thor zeul tunetului #13",
+        "editura": "Lex Shop",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 699,
+        "titlu": "Thor zeul tunetului #14",
+        "autor": "Jason Aaron",
+        "colectie": "Thor zeul tunetului #14",
+        "editura": "Lex Shop",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 700,
+        "titlu": "Thor zeul tunetului #15",
+        "autor": "Jason Aaron",
+        "colectie": "Thor zeul tunetului #15",
+        "editura": "Lex Shop",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 701,
+        "titlu": "Thor zeul tunetului #16",
+        "autor": "Jason Aaron",
+        "colectie": "Thor zeul tunetului #16",
+        "editura": "Lex Shop",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 702,
+        "titlu": "Iron Man #1",
+        "autor": "Gillen",
+        "colectie": "Iron Man #1",
+        "editura": "Lex Shop",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 703,
+        "titlu": "Iron Man #2",
+        "autor": "Gillen",
+        "colectie": "Iron Man #2",
+        "editura": "Lex Shop",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 704,
+        "titlu": "Iron Man #3",
+        "autor": "Gillen",
+        "colectie": "Iron Man #3",
+        "editura": "Lex Shop",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 705,
+        "titlu": "Iron Man #4",
+        "autor": "Gillen",
+        "colectie": "Iron Man #4",
+        "editura": "Lex Shop",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 706,
+        "titlu": "Iron Man #5",
+        "autor": "Gillen",
+        "colectie": "Iron Man #5",
+        "editura": "Lex Shop",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 707,
+        "titlu": "Iron Man #6",
+        "autor": "Gillen",
+        "colectie": "Iron Man #6",
+        "editura": "Lex Shop",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 708,
+        "titlu": "Iron Man #7",
+        "autor": "Gillen",
+        "colectie": "Iron Man #7",
+        "editura": "Lex Shop",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 709,
+        "editura": "Lex Shop "
+    },
+    {
+        "id": 710,
+        "titlu": "Iron Man #9",
+        "autor": "Gillen",
+        "colectie": "Iron Man #9",
+        "editura": "Lex Shop",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 711,
+        "titlu": "Iron Man #10",
+        "autor": "Gillen",
+        "colectie": "Iron Man #10",
+        "editura": "Lex Shop",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 712,
+        "titlu": "Iron Man #11",
+        "autor": "Gillen",
+        "colectie": "Iron Man #11",
+        "editura": "Lex Shop",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 713,
+        "titlu": "Iron Man #12",
+        "autor": "Gillen",
+        "colectie": "Iron Man #12",
+        "editura": "Lex Shop",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 714,
+        "titlu": "Iron Man #13",
+        "autor": "Gillen",
+        "colectie": "Iron Man #13",
+        "editura": "Lex Shop",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 715,
+        "titlu": "Iron Man #14",
+        "autor": "Gillen",
+        "colectie": "Iron Man #14",
+        "editura": "Lex Shop",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 716,
+        "titlu": "Iron Man #15",
+        "autor": "Gillen",
+        "colectie": "Iron Man #15",
+        "editura": "Lex Shop",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 717,
+        "titlu": "Iron Man #16",
+        "autor": "Gillen",
+        "colectie": "Iron Man #16",
+        "editura": "Lex Shop",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 718,
+        "titlu": "The Amazing Spider Man #1",
+        "autor": "Slott",
+        "colectie": "The Amazing Spider Man #1",
+        "editura": "Lex Shop",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 719,
+        "titlu": "The Amazing Spider Man #2",
+        "autor": "Slott",
+        "colectie": "The Amazing Spider Man #2",
+        "editura": "Lex Shop",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 720,
+        "titlu": "The Amazing Spider Man #3",
+        "autor": "Slott",
+        "colectie": "The Amazing Spider Man #3",
+        "editura": "Lex Shop",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 721,
+        "titlu": "The Amazing Spider Man #4",
+        "autor": "Slott",
+        "colectie": "The Amazing Spider Man #4",
+        "editura": "Lex Shop",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 722,
+        "titlu": "The Amazing Spider Man #5",
+        "autor": "Slott",
+        "colectie": "The Amazing Spider Man #5",
+        "editura": "Lex Shop",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 723,
+        "titlu": "The Amazing Spider Man #6",
+        "autor": "Slott",
+        "colectie": "The Amazing Spider Man #6",
+        "editura": "Lex Shop",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 724,
+        "titlu": "The Amazing Spider Man #7",
+        "autor": "Slott",
+        "colectie": "The Amazing Spider Man #7",
+        "editura": "Lex Shop",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 725,
+        "titlu": "The Amazing Spider Man #8",
+        "autor": "Slott",
+        "colectie": "The Amazing Spider Man #8",
+        "editura": "Lex Shop",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 726,
+        "titlu": "The Amazing Spider Man #9",
+        "autor": "Slott",
+        "colectie": "The Amazing Spider Man #9",
+        "editura": "Lex Shop",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 727,
+        "titlu": "The Amazing Spider Man #10",
+        "autor": "Slott",
+        "colectie": "The Amazing Spider Man #10",
+        "editura": "Lex Shop",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 728,
+        "titlu": "The Amazing Spider Man #11",
+        "autor": "Slott",
+        "colectie": "The Amazing Spider Man #11",
+        "editura": "Lex Shop",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 729,
+        "titlu": "Deadpool #3",
+        "autor": "Posehn",
+        "colectie": "Deadpool #3",
+        "editura": "Lex Shop",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 730,
+        "titlu": "Deadpool #4",
+        "autor": "Posehn",
+        "colectie": "Deadpool #4",
+        "editura": "Lex Shop",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 731,
+        "titlu": "Deadpool #5",
+        "autor": "Posehn",
+        "colectie": "Deadpool #5",
+        "editura": "Lex Shop",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 732,
+        "titlu": "Deadpool #6",
+        "autor": "Posehn",
+        "colectie": "Deadpool #6",
+        "editura": "Lex Shop",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 733,
+        "titlu": "Deadpool #7",
+        "autor": "Posehn",
+        "colectie": "Deadpool #7",
+        "editura": "Lex Shop",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 734,
+        "titlu": "Deadpool #8",
+        "autor": "Posehn",
+        "colectie": "Deadpool #8",
+        "editura": "Lex Shop",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 735,
+        "titlu": "Deadpool #9",
+        "autor": "Posehn",
+        "colectie": "Deadpool #9",
+        "editura": "Lex Shop",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 736,
+        "titlu": "Deadpool #10",
+        "autor": "Posehn",
+        "colectie": "Deadpool #10",
+        "editura": "Lex Shop",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 737,
+        "titlu": "Deadpool #11",
+        "autor": "Posehn",
+        "colectie": "Deadpool #11",
+        "editura": "Lex Shop",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 738,
+        "titlu": "Deadpool #12",
+        "autor": "Posehn",
+        "colectie": "Deadpool #12",
+        "editura": "Lex Shop",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 739,
+        "titlu": "Deadpool #13",
+        "autor": "Posehn",
+        "colectie": "Deadpool #13",
+        "editura": "Lex Shop",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 740,
+        "titlu": "Deadpool #14",
+        "autor": "Posehn",
+        "colectie": "Deadpool #14",
+        "editura": "Lex Shop",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 741,
+        "titlu": "Deadpool #15",
+        "autor": "Posehn",
+        "colectie": "Deadpool #15",
+        "editura": "Lex Shop",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 742,
+        "titlu": "Deadpool #16",
+        "autor": "Posehn",
+        "colectie": "Deadpool #16",
+        "editura": "Lex Shop",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 743,
+        "titlu": "Alien vs. Predator #1 Foc si Piatra",
+        "autor": "Christopher Sebela",
+        "colectie": "Alien vs. Predator #1",
+        "editura": "Eat Comics",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 744,
+        "titlu": "Sloth",
+        "autor": "Radovanovic, Alcante",
+        "colectie": "Pandora\u2019s Box #2",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 745,
+        "titlu": "Gluttony",
+        "autor": "Alcante",
+        "colectie": "Pandora\u2019s Box #3",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 746,
+        "titlu": "Greed",
+        "autor": "Alcante",
+        "colectie": "Pandora\u2019s Box #4",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 747,
+        "titlu": "Envy",
+        "autor": "Alcante",
+        "colectie": "Pandora\u2019s Box #5",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 748,
+        "titlu": "Corporate America",
+        "autor": "Vrancken, Desberg",
+        "colectie": "IR$ #7",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 749,
+        "titlu": "The Black Gold War",
+        "autor": "Vrancken, Desberg",
+        "colectie": "IR$ #? 6 sau 8",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 750,
+        "titlu": "Game of Fools",
+        "autor": "Aymond, Van Hamme",
+        "colectie": "Lady S.#3",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 751,
+        "titlu": "Portuguese Medley",
+        "autor": "Aymond, Van Hamme",
+        "colectie": "Lady S.#5",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 752,
+        "titlu": "Death of a beast",
+        "autor": "Ocana-Runberg",
+        "colectie": "Darwin\u2019s Diaries #2",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 753,
+        "titlu": "Dual nature",
+        "autor": "Ocana-Runberg",
+        "colectie": "Darwin\u2019s Diaries #3",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 754,
+        "titlu": "Century club",
+        "autor": "Rossi, Dorison, Nury",
+        "colectie": "Spooks #2",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 755,
+        "titlu": "El Santero",
+        "autor": "Rossi, Dorison, Nury",
+        "colectie": "Spooks #3",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 756,
+        "titlu": "The 46th state",
+        "autor": "Rossi, Dorison, Nury",
+        "colectie": "Spooks #4",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 757,
+        "titlu": "Star Wars drawing manual",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 758,
+        "titlu": "The devil's footprints",
+        "autor": "Scott Allie, Paul Lee, Brian Horton, Dave Stewart",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 759,
+        "titlu": "Almanah Anticipatia 2015",
+        "editura": "Anticipatia",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 760,
+        "titlu": "Steed and Mrs. Peel #1",
+        "colectie": "Steed and Mrs. Peel #1",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 761,
+        "titlu": "Steed and Mrs. Peel #2",
+        "colectie": "Steed and Mrs. Peel #2",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 762,
+        "titlu": "Killing the Cobra",
+        "autor": "Mario Acevedo",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 763,
+        "titlu": "Monster Movies",
+        "autor": "Michael Gingold",
+        "colectie": "The dark heart of cinema Frightfest Guide #2",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 764,
+        "titlu": "The master of machines",
+        "autor": "Dufaux-Xavier",
+        "colectie": "Crusade #3",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 765,
+        "titlu": "The fire breaks",
+        "autor": "Dufaux-Xavier",
+        "colectie": "Crusade #4",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 766,
+        "titlu": "The isle of Brac",
+        "autor": "Vehlmann Bonhomme",
+        "colectie": "The Marquis of Anaon #1",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 767,
+        "titlu": "The black virgin",
+        "autor": "Vehlmann Bonhomme",
+        "colectie": "The Marquis of Anaon #2",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 768,
+        "titlu": "The providence",
+        "autor": "Vehlmann Bonhomme",
+        "colectie": "The Marquis of Anaon #3",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 769,
+        "titlu": "Bodyguards",
+        "autor": "Henriet Callede",
+        "colectie": "Damocles #1",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 770,
+        "titlu": "An impossible ransom",
+        "autor": "Henriet Callede",
+        "colectie": "Damocles #2",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 771,
+        "titlu": "Perfect child",
+        "autor": "Henriet Callede",
+        "colectie": "Damocles #3",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 772,
+        "titlu": "Eros and Thanatos",
+        "autor": "Henriet Callede",
+        "colectie": "Damocles #4",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 773,
+        "titlu": "Rain of blood",
+        "autor": "Pierre Veys, Carlos Puerta",
+        "colectie": "Red Baron #2",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 774,
+        "titlu": "Malevolence and mandrake",
+        "autor": "Mauricet Vanholme",
+        "colectie": "Scared to death #2",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 775,
+        "titlu": "Avoid being a sumerian slave!",
+        "autor": "Jacqueline Morley",
+        "colectie": "The danger zone",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 776,
+        "titlu": "Avoid meeting a body snatcher!",
+        "autor": "Fiona Macdonald",
+        "colectie": "The danger zone",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 777,
+        "titlu": "Guardians of the Galaxy - The ultimate guide to the cosmic\routlaws",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 778,
+        "titlu": "Nikon D3200 Digital field guide",
+        "autor": "Alan Hess",
+        "locatie": "Biblioteca spate TV"
+    },
+    {
+        "id": 779,
+        "titlu": "Povestea capcaunului care dintr-o jucarie s-a crezut un\rcapcaun adevarat",
+        "autor": "Aurel Andrei",
+        "editura": "Danaster",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 780,
+        "titlu": "The gentleman's guide to grooming",
+        "autor": "Dan Jones",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 781,
+        "titlu": "Dangerous pack for Idiots",
+        "autor": "Chaz Nuffington-Twattt",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 782,
+        "titlu": "Profetiile inedite ale lui Nostradamus",
+        "autor": "Arthur Crockett",
+        "editura": "Rom Direct Impex",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 783,
+        "titlu": "Cei patru fantastici - vol 1 - familia de eroi",
+        "autor": "Jeff Parker",
+        "colectie": "Marvel Adventures Fantastic Four #1-4",
+        "editura": "Corint Junior",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 784,
+        "titlu": "Cei patru fantastici -vol 2 - calatorii fantastice",
+        "autor": "Jeff Parker",
+        "colectie": "Marvel Adventures Fantastic Four #5-8",
+        "editura": "Corint Junior",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 785,
+        "titlu": "Spider-Man vol 1 - Cei sase ticalosi",
+        "autor": "Marvel Adventures Spider-Man #1-4",
+        "colectie": "Kitty Fross",
+        "editura": "Corint Junior",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 786,
+        "titlu": "Spider-Man vol 2 - Lupta pentru putere",
+        "autor": "Sean McKeever",
+        "colectie": "Marvel Adventures Spider-Man #5-8",
+        "editura": "Corint Junior",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 787,
+        "titlu": "Spider-Man vol 3 - Doctor Horroris Causa",
+        "autor": "Sean McKeever",
+        "colectie": "Marvel Adventures Spider-Man #9-12",
+        "editura": "Corint Junior",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 788,
+        "titlu": "Spider-Man vol 4 - Jungla de beton",
+        "autor": "Zed Wells",
+        "colectie": "Marvel Adventures Spider-Man #13-16",
+        "editura": "Corint Junior",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 789,
+        "titlu": "Spider-Man vol 5 - Monstrii pradatori",
+        "autor": "Peter David",
+        "colectie": "Marvel Adventures Spider-Man #17-20",
+        "editura": "Corint Junior",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 790,
+        "titlu": "Spider-Man vol 6 - costumul negru",
+        "autor": "Fred van Lente",
+        "colectie": "Marvel Adventures Spider-Man #21-24",
+        "editura": "Corint Junior",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 791,
+        "titlu": "Spider-Man vol 7 - Trei arene...ale primejdiei!",
+        "autor": "Chris Kipiniak",
+        "colectie": "Marvel Adventures Spider-Man #25-28",
+        "editura": "Corint Junior",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 792,
+        "titlu": "Spider-Man vol 1 - Dusmani fiorosi",
+        "autor": "Daniel Quantz",
+        "colectie": "Marvel Age Spider-Man #1-4",
+        "editura": "Corint Junior",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 793,
+        "titlu": "Spider-Man vol 3 - In numele legii!",
+        "autor": "Todd Dezago",
+        "colectie": "Marvel Age Spider-Man #9-12",
+        "editura": "Corint Junior",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 794,
+        "titlu": "Spider-Man vol 4 - Goblinul verde iese la atac",
+        "autor": "Todd Dezago",
+        "colectie": "Marvel Age Spider-Man #13-16",
+        "editura": "Corint Junior",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 795,
+        "titlu": "Spider-Man vol 5 - Spidey contraataca!",
+        "autor": "Todd Dezago",
+        "colectie": "Marvel Age Spider-Man #17-20",
+        "editura": "Corint Junior",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 796,
+        "titlu": "Spider-Man - Spirit de echipa",
+        "autor": "Todd Dezago",
+        "colectie": "Marvel Age Spider-Man Team-Up #1-5",
+        "editura": "Corint Junior",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 797,
+        "titlu": "Spider-Man - Adventures of the web-slinger",
+        "autor": "Simon Hugo",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 798,
+        "titlu": "Rechin furios si paianjen cu lasou!",
+        "autor": "Roy Condy",
+        "editura": "Egmont",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 799,
+        "titlu": "Carnaval insangerat",
+        "autor": "Dick Stanford",
+        "editura": "Z 2000",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 800,
+        "titlu": "Insight guides: Barcelona city guide",
+        "autor": "Judy Thomson",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 801,
+        "titlu": "Dune",
+        "autor": "Frank Herbert",
+        "colectie": "Dune vol 1",
+        "editura": "Armada clasic",
+        "locatie": "Biblioteca hol"
+    },
+    {
+        "id": 802,
+        "titlu": "Mantuitorul Dunei",
+        "autor": "Frank Herbert",
+        "colectie": "Dune vol 2",
+        "editura": "Armada clasic",
+        "locatie": "Biblioteca hol"
+    },
+    {
+        "id": 803,
+        "titlu": "Copii Dunei",
+        "autor": "Frank Herbert",
+        "colectie": "Dune vol 3",
+        "editura": "Armada clasic",
+        "locatie": "Biblioteca hol"
+    },
+    {
+        "id": 804,
+        "titlu": "Imparatul-Zeu al Dunei",
+        "autor": "Frank Herbert",
+        "colectie": "Dune vol 4",
+        "editura": "Armada clasic",
+        "locatie": "Biblioteca hol"
+    },
+    {
+        "id": 805,
+        "titlu": "Ereticii Dunei",
+        "autor": "Frank Herbert",
+        "colectie": "Dune vol 5",
+        "editura": "Armada clasic",
+        "locatie": "Biblioteca hol"
+    },
+    {
+        "id": 806,
+        "editura": "Armada clasic "
+    },
+    {
+        "id": 807,
+        "titlu": "Casa Atreides",
+        "autor": "Brian Herbert, Kevin J. Anderson",
+        "colectie": "Preludiul Dunei vol 1",
+        "editura": "Armada",
+        "locatie": "Biblioteca hol"
+    },
+    {
+        "id": 808,
+        "titlu": "Casa Harkonnen",
+        "autor": "Brian Herbert, Kevin J. Anderson",
+        "colectie": "Preludiul Dunei vol 2",
+        "editura": "Armada",
+        "locatie": "Biblioteca hol"
+    },
+    {
+        "id": 809,
+        "titlu": "Casa Corrino",
+        "autor": "Brian Herbert, Kevin J. Anderson",
+        "colectie": "Preludiul Dunei vol 3",
+        "editura": "Armada",
+        "locatie": "Biblioteca hol"
+    },
+    {
+        "id": 810,
+        "titlu": "Orasul oaselor",
+        "autor": "Cassandra Clare",
+        "colectie": "Instrumente mortale vol 1",
+        "editura": "Leda",
+        "locatie": "Biblioteca hol"
+    },
+    {
+        "id": 811,
+        "titlu": "Orasul de cenusa",
+        "autor": "Cassandra Clare",
+        "colectie": "Instrumente mortale vol 2",
+        "editura": "Leda",
+        "locatie": "Biblioteca hol"
+    },
+    {
+        "id": 812,
+        "titlu": "Orasul de sticla",
+        "autor": "Cassandra Clare",
+        "colectie": "Instrumente mortale vol 3",
+        "editura": "Leda",
+        "locatie": "Biblioteca hol"
+    },
+    {
+        "id": 813,
+        "titlu": "Orasul ingerilor cazuti",
+        "autor": "Cassandra Clare",
+        "colectie": "Instrumente mortale vol 4",
+        "editura": "Leda",
+        "locatie": "Biblioteca hol"
+    },
+    {
+        "id": 814,
+        "titlu": "Orasul sufletelor pierdute",
+        "autor": "Cassandra Clare",
+        "colectie": "Instrumente mortale vol 5",
+        "editura": "Leda",
+        "locatie": "Biblioteca hol"
+    },
+    {
+        "id": 815,
+        "titlu": "Orasul focului ceresc",
+        "autor": "Cassandra Clare",
+        "colectie": "Instrumente mortale vol 6",
+        "editura": "Leda",
+        "locatie": "Biblioteca hol"
+    },
+    {
+        "id": 816,
+        "titlu": "Ingerul mecanic",
+        "autor": "Cassandra Clare",
+        "colectie": "Dispozitive infernale vol 1",
+        "editura": "Leda",
+        "locatie": "Biblioteca hol"
+    },
+    {
+        "id": 817,
+        "titlu": "Printul mecanic",
+        "autor": "Cassandra Clare",
+        "colectie": "Dispozitive infernale vol 2",
+        "editura": "Leda",
+        "locatie": "Biblioteca hol"
+    },
+    {
+        "id": 818,
+        "titlu": "Printesa mecanica",
+        "autor": "Cassandra Clare",
+        "colectie": "Dispozitive infernale vol 3",
+        "editura": "Leda",
+        "locatie": "Biblioteca hol"
+    },
+    {
+        "id": 819,
+        "titlu": "Doamna de la Miezul Noptii",
+        "autor": "Cassandra Clare",
+        "colectie": "Uneltiri intunecate vol 1",
+        "editura": "Leda Edge",
+        "locatie": "Biblioteca hol"
+    },
+    {
+        "id": 820,
+        "titlu": "Stapanul umbrelor",
+        "autor": "Cassandra Clare",
+        "colectie": "Uneltiri intunecate vol 2",
+        "editura": "Leda Edge",
+        "locatie": "Biblioteca hol"
+    },
+    {
+        "id": 821,
+        "titlu": "Regina aerului si a intunericului",
+        "autor": "Cassandra Clare",
+        "colectie": "Uneltiri intunecate vol 3",
+        "editura": "Leda Edge",
+        "locatie": "Biblioteca hol"
+    },
+    {
+        "id": 822,
+        "titlu": "Cronicile lui Magnus Bane",
+        "autor": "Cassandra Clare",
+        "editura": "Leda Edge",
+        "locatie": "Biblioteca hol"
+    },
+    {
+        "id": 823,
+        "titlu": "Vagabond",
+        "colectie": "Vagabond #4-6",
+        "locatie": "Biblioteca hol"
+    },
+    {
+        "id": 824,
+        "titlu": "Istoria universala a prostiei",
+        "autor": "Jean-Francois Marmion",
+        "editura": "Litera",
+        "locatie": "Biblioteca hol"
+    },
+    {
+        "id": 825,
+        "titlu": "Romania salbatica",
+        "autor": "Dan Dinu",
+        "locatie": "Biblioteca hol"
+    },
+    {
+        "id": 826,
+        "titlu": "Forma apei",
+        "autor": "Andrea Camilleri",
+        "colectie": "Comisarul Montalbano vol 1",
+        "editura": "Nemira",
+        "locatie": "Biblioteca hol"
+    },
+    {
+        "id": 827,
+        "titlu": "Cainele de teracota",
+        "autor": "Andrea Camilleri",
+        "colectie": "Comisarul Montalbano vol 2",
+        "editura": "Nemira",
+        "locatie": "Biblioteca hol"
+    },
+    {
+        "id": 828,
+        "titlu": "Hotul de merinde",
+        "autor": "Andrea Camilleri",
+        "colectie": "Comisarul Montalbano vol 3",
+        "editura": "Nemira",
+        "locatie": "Biblioteca hol"
+    },
+    {
+        "id": 829,
+        "titlu": "SUnetul viorii",
+        "autor": "Andrea Camilleri",
+        "colectie": "Comisarul Montalbano vol 4",
+        "editura": "Nemira",
+        "locatie": "Biblioteca hol"
+    },
+    {
+        "id": 830,
+        "titlu": "Excursie la Tindari",
+        "autor": "Andrea Camilleri",
+        "colectie": "Comisarul Montalbano vol 5",
+        "editura": "Nemira",
+        "locatie": "Biblioteca hol"
+    },
+    {
+        "id": 831,
+        "titlu": "Rabdarea paianjenului",
+        "autor": "Andrea Camilleri",
+        "colectie": "Comisarul Montalbano vol 7",
+        "editura": "Nemira",
+        "locatie": "Biblioteca hol"
+    },
+    {
+        "id": 832,
+        "titlu": "Arax the soul stealer",
+        "autor": "Adam Blade",
+        "colectie": "Beast Quest",
+        "locatie": "Biblioteca camera stanga sus"
+    },
+    {
+        "id": 833,
+        "titlu": "Arachnid the king of spiders",
+        "autor": "Adam Blade",
+        "colectie": "Beast Quest vol 11",
+        "locatie": "Biblioteca camera stanga sus"
+    },
+    {
+        "id": 834,
+        "titlu": "Skor the winged stallion",
+        "autor": "Adam Blade",
+        "colectie": "Beast Quest",
+        "locatie": "Biblioteca camera stanga sus"
+    },
+    {
+        "id": 835,
+        "titlu": "Muro the rat monster",
+        "autor": "Adam Blade",
+        "colectie": "Beast Quest",
+        "locatie": "Biblioteca camera stanga sus"
+    },
+    {
+        "id": 836,
+        "titlu": "Say cheese - and die screaming!",
+        "autor": "R.L Stine",
+        "colectie": "Goosebumps HorrorLand vol 8",
+        "locatie": "Biblioteca camera stanga sus"
+    },
+    {
+        "id": 837,
+        "titlu": "Astrosaurs - The Claws of Christmas",
+        "autor": "Steve Cole",
+        "colectie": "Astrosaurs",
+        "locatie": "Biblioteca camera stanga sus"
+    },
+    {
+        "id": 838,
+        "titlu": "Bisturiul",
+        "autor": "R.L. Stine",
+        "colectie": "Twin Peaks",
+        "locatie": "Biblioteca camera stanga sus"
+    },
+    {
+        "id": 839,
+        "titlu": "Floarea de gheata",
+        "autor": "Josefine Ottesen",
+        "colectie": "W.I.T.C.H. vol 1",
+        "editura": "Egmont",
+        "locatie": "Biblioteca camera mijloc"
+    },
+    {
+        "id": 840,
+        "titlu": "Izvorul cetii",
+        "autor": "Cecilie Eken",
+        "colectie": "W.I.T.C.H. vol 2",
+        "editura": "Egmont",
+        "locatie": "Biblioteca camera mijloc"
+    },
+    {
+        "id": 841,
+        "titlu": "Focul ratiunii",
+        "autor": "Maud Mangold",
+        "colectie": "W.I.T.C.H. vol 3",
+        "editura": "Egmont",
+        "locatie": "Biblioteca camera mijloc"
+    },
+    {
+        "id": 842,
+        "titlu": "Soimul de piatra",
+        "autor": "Lene Kaaberbol",
+        "colectie": "W.I.T.C.H. - Globul sfaramat vol 1",
+        "editura": "Egmont",
+        "locatie": "Biblioteca camera mijloc"
+    },
+    {
+        "id": 843,
+        "titlu": "In ghearele vulturului",
+        "autor": "Lene Kaaberbol",
+        "colectie": "W.I.T.C.H. - Globul sfaramat vol 2",
+        "editura": "Egmont",
+        "locatie": "Biblioteca camera mijloc"
+    },
+    {
+        "id": 844,
+        "titlu": "Umbra bufnitei",
+        "autor": "Lene Kaaberbol",
+        "colectie": "W.I.T.C.H. - Globul sfaramat vol 3",
+        "editura": "Egmont",
+        "locatie": "Biblioteca camera mijloc"
+    },
+    {
+        "id": 845,
+        "titlu": "Phoenixul de aur",
+        "autor": "Lene Kaaberbol",
+        "colectie": "W.I.T.C.H. - Globul sfaramat vol 3",
+        "editura": "Egmont",
+        "locatie": "Biblioteca camera mijloc"
+    },
+    {
+        "id": 846,
+        "titlu": "Jihadul Butlerian",
+        "autor": "Brian Herbert, Kevin J. Anderson",
+        "colectie": "Legendele Dunei vol 1",
+        "editura": "Armada",
+        "locatie": "Biblioteca hol"
+    },
+    {
+        "id": 847,
+        "titlu": "Cruciada masinilor",
+        "autor": "Brian Herbert, Kevin J. Anderson",
+        "colectie": "Legendele Dunei vol 2",
+        "editura": "Armada",
+        "locatie": "Biblioteca hol"
+    },
+    {
+        "id": 848,
+        "editura": "Armada "
+    },
+    {
+        "id": 849,
+        "titlu": "Acei greci formidabili",
+        "autor": "Terry Deary",
+        "colectie": "Istoria ascunsa",
+        "editura": "Egmont Romania",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 850,
+        "titlu": "Focul din adancuri",
+        "autor": "Chris D\u2019Lacey",
+        "colectie": "The last dragon chronicles vol 1",
+        "editura": "Corint Junior",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 851,
+        "titlu": "Barbatul de 100 de ani care a sarit pe fereastra si a disparut",
+        "autor": "Jonas Jonasson",
+        "colectie": "Barbatul de 100 de ani care a sarit pe fereastra si a disparut\rvol 1",
+        "editura": "TREI",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 852,
+        "titlu": "In camion",
+        "autor": "Terry Pratchett",
+        "colectie": "Trilogia Nomilor vol 1",
+        "editura": "Corint Junior",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 853,
+        "titlu": "In excavator",
+        "autor": "Terry Pratchett",
+        "colectie": "Trilogia Nomilor vol 2",
+        "editura": "Corint Junior",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 854,
+        "titlu": "In nava",
+        "autor": "Terry Pratchett",
+        "colectie": "Trilogia Nomilor vol 3",
+        "editura": "Corint Junior",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 855,
+        "titlu": "Liga dreptatii - Origini secrete",
+        "autor": "Michael Teitelbaum",
+        "colectie": "Liga dreptatii",
+        "editura": "National",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 856,
+        "titlu": "Liga dreptatii - Noapte fara stele",
+        "autor": "Michael Jan Friedman",
+        "colectie": "Liga dreptatii",
+        "editura": "National",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 857,
+        "titlu": "Liga dreptatii - Dreptate rosie",
+        "autor": "Michael Teitelbaum",
+        "colectie": "Liga dreptatii",
+        "editura": "National",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 858,
+        "titlu": "Liga dreptatii - Bratara zeitei",
+        "autor": "Louise Simonson",
+        "colectie": "Liga dreptatii",
+        "editura": "National",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 859,
+        "titlu": "Talharul din Ostia",
+        "autor": "Caroline Lawrence",
+        "colectie": "Misterele romane vol 1",
+        "editura": "Corint Junior",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 860,
+        "titlu": "Secretele Vezuviului",
+        "autor": "Caroline Lawrence",
+        "colectie": "Misterele romane vol 2",
+        "editura": "Corint Junior",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 861,
+        "titlu": "Familia Puhoi - Vecinii",
+        "autor": "Colin Thompson",
+        "colectie": "Familia Puhoi vol 1",
+        "editura": "Corint Junior",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 862,
+        "editura": "Corint Junior "
+    },
+    {
+        "id": 863,
+        "titlu": "Agentul Cormac",
+        "autor": "Neal Asher",
+        "colectie": "Agentul Cormac vol 1",
+        "editura": "Nautilus",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 864,
+        "titlu": "Codul haosului",
+        "autor": "Justin Richards",
+        "editura": "Corint Junior",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 865,
+        "titlu": "Razbunatorii",
+        "autor": "John Connolly",
+        "editura": "RAO",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 866,
+        "titlu": "Nebunie curata",
+        "autor": "Feldhaus",
+        "editura": "Corint Junior",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 867,
+        "titlu": "Dosarele Scarlet - Spargatoare la inaltime",
+        "autor": "Tamsin Cooke",
+        "editura": "Corint Junior",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 868,
+        "titlu": "Zorii semilunii",
+        "autor": "Clive Cussler",
+        "colectie": "The Dirk Pitt Adventure Series vol 22",
+        "editura": "RAO",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 869,
+        "titlu": "Batranul si lupii",
+        "autor": "Julia Kristeva",
+        "colectie": "Colectiile Cotidianul",
+        "editura": "Univers",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 870,
+        "titlu": "Dedesubt este infernul",
+        "autor": "Claire Castillon",
+        "colectie": "Colectiile Cotidianul",
+        "editura": "Univers",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 871,
+        "titlu": "Batranul Gringo",
+        "autor": "Carlos Fuentes",
+        "colectie": "Colectiile Cotidianul",
+        "editura": "Univers",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 872,
+        "titlu": "Demon dentist",
+        "autor": "David Walliams",
+        "locatie": "Cutie 6 usa"
+    },
+    {
+        "id": 873,
+        "titlu": "Piatra sculptata",
+        "autor": "Guillaume Prevost",
+        "colectie": "Cartea timpului vol 1",
+        "editura": "Corint Junior",
+        "locatie": "Cutie 6 usa"
+    },
+    {
+        "id": 874,
+        "titlu": "Portile",
+        "autor": "John Connolly",
+        "colectie": "Samuel Johnson vol 1",
+        "editura": "Pandora",
+        "locatie": "Cutie 6 usa"
+    },
+    {
+        "id": 875,
+        "titlu": "Corby Flood",
+        "autor": "Paul Stewart, Chris Riddell",
+        "colectie": "Aventuri din taramuri indepartate vol 2",
+        "editura": "Nemira Junior",
+        "locatie": "Cutie 6 usa"
+    },
+    {
+        "id": 876,
+        "titlu": "Aventurile lui Pinocchio",
+        "autor": "Carlo Collodi",
+        "editura": "RAO pentru copii",
+        "locatie": "Cutie 6 usa"
+    },
+    {
+        "id": 877,
+        "titlu": "Bambi",
+        "autor": "Felix Salten",
+        "editura": "RAO pentru copii",
+        "locatie": "Cutie 6 usa"
+    },
+    {
+        "id": 878,
+        "titlu": "Mausoleul din Halicarnas",
+        "autor": "Katherine Roberts",
+        "colectie": "Cele sapte minuni vol 4",
+        "editura": "RAO",
+        "locatie": "Cutie 6 usa"
+    },
+    {
+        "id": 879,
+        "titlu": "Victima fara chip",
+        "autor": "Stefan Ahnhem",
+        "colectie": "Fabian Risk vol 1",
+        "editura": "Litera",
+        "locatie": "Cutie 6 usa"
+    },
+    {
+        "id": 880,
+        "titlu": "Al noulea mormant",
+        "autor": "Stefan Ahnhem",
+        "colectie": "Fabian Risk vol 2",
+        "editura": "Litera",
+        "locatie": "Cutie 6 usa"
+    },
+    {
+        "id": 881,
+        "titlu": "Blue Lily, Lily blue",
+        "autor": "Maggie Stiefvater",
+        "colectie": "Fratia corbilor vol 3",
+        "editura": "Nemira",
+        "locatie": "Cutie 6 usa"
+    },
+    {
+        "id": 882,
+        "titlu": "Regele corb",
+        "autor": "Maggie Stiefvater",
+        "colectie": "Fratia corbilor vol 4",
+        "editura": "Nemira",
+        "locatie": "Cutie 6 usa"
+    },
+    {
+        "id": 883,
+        "titlu": "Balada serpilor si a pasarilor cantatoare",
+        "autor": "Suzanne Collins",
+        "colectie": "Hunger games vol 4",
+        "editura": "Armada",
+        "locatie": "Cutie 6 usa"
+    },
+    {
+        "id": 884,
+        "titlu": "Spitalul municipal",
+        "autor": "Barbara Harrison",
+        "colectie": "Spitalul municipal vol 1",
+        "editura": "Divers Press",
+        "locatie": "Cutie 6 usa"
+    },
+    {
+        "id": 885,
+        "titlu": "Gheata de sub picioarele ei",
+        "autor": "Camilla Grebe",
+        "editura": "TREI",
+        "locatie": "Cutie 6 usa"
+    },
+    {
+        "id": 886,
+        "titlu": "Noah Shaw. Devenirea",
+        "autor": "Michelle Hodkin",
+        "colectie": "Noah Shaw vol 1",
+        "editura": "TREI",
+        "locatie": "Cutie 6 usa"
+    },
+    {
+        "id": 887,
+        "titlu": "Noah Shaw. Revansa",
+        "autor": "Michelle Hodkin",
+        "colectie": "Noah Shaw vol 2",
+        "locatie": "Cutie 6 usa"
+    },
+    {
+        "id": 888,
+        "titlu": "Cartea interzisa",
+        "autor": "Sophie Audouin-Mamikonian",
+        "colectie": "Tara Duncan vol 2",
+        "editura": "Corint Junior",
+        "locatie": "Cutie 6 usa"
+    },
+    {
+        "id": 889,
+        "titlu": "Fantomele din Altalume",
+        "autor": "Sophie Audouin-Mamikonian",
+        "colectie": "Tara Duncan vol 7",
+        "editura": "Corint Junior",
+        "locatie": "Cutie 6 usa"
+    },
+    {
+        "id": 890,
+        "titlu": "Spioana imperiala",
+        "autor": "Mark Robson",
+        "editura": "Corint Teens",
+        "locatie": "Cutie 6 usa"
+    },
+    {
+        "id": 891,
+        "titlu": "Oksa Pollock Taramul invizibil",
+        "autor": "Anne Plichota, Cendrine Wolf",
+        "colectie": "Oksa Pollock vol 1",
+        "editura": "Allfa",
+        "locatie": "Cutie 6 usa"
+    },
+    {
+        "id": 892,
+        "titlu": "Gambitul Hutt",
+        "autor": "A.C. Crispin",
+        "colectie": "Star Wars vol 9",
+        "editura": "Amaltea",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 893,
+        "titlu": "Darth Maul vanatorul din umbra",
+        "autor": "Michael Reaves",
+        "colectie": "Star Wars vol 11",
+        "editura": "Amaltea",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 894,
+        "titlu": "Episodul II - Atacul clonelor",
+        "autor": "R.A. Salvatore",
+        "colectie": "Star Wars vol 13",
+        "editura": "Amaltea",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 895,
+        "titlu": "Labirintul raului",
+        "autor": "James Luceno",
+        "colectie": "Star Wars vol 15",
+        "editura": "Amaltea",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 896,
+        "titlu": "Episodul III - Razbunarea Sith",
+        "autor": "Matthew Stover",
+        "colectie": "Star Wars vol 16",
+        "editura": "Amaltea",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 897,
+        "titlu": "Spectre din trecut",
+        "autor": "Timothy Zahn",
+        "colectie": "Star Wars vol 17",
+        "editura": "Amaltea",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 898,
+        "titlu": "Viziuni din viitor",
+        "autor": "Timothy Zahn",
+        "colectie": "Star Wars vol 18",
+        "editura": "Amaltea",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 899,
+        "titlu": "Episodul IV - Razboiul stelelor O noua speranta",
+        "autor": "George Lucas",
+        "colectie": "Star Wars vol 19",
+        "editura": "Amaltea",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 900,
+        "titlu": "Episodul V - Imperiul contraataca",
+        "autor": "Donald F. Glut",
+        "colectie": "Star Wars vol 20",
+        "editura": "Amaltea",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 901,
+        "titlu": "Complotul de pe Cestus",
+        "autor": "Steven Barnes",
+        "colectie": "Star Wars vol 22",
+        "editura": "Amaltea",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 902,
+        "titlu": "Cucerirea printesei Leia",
+        "autor": "Dave Wolverton",
+        "colectie": "Star Wars vol 24",
+        "editura": "Amaltea",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 903,
+        "titlu": "Mantia inselaciunii",
+        "autor": "James Luceno",
+        "colectie": "Star Wars vol 25",
+        "editura": "Amaltea",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 904,
+        "titlu": "Star Wars The last jedi",
+        "colectie": "Star Wars",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 905,
+        "titlu": "Din aventurile lui Luke Skywalker",
+        "autor": "George Lucas",
+        "colectie": "Star Wars",
+        "editura": "Elit Comentator",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 906,
+        "titlu": "Star Trek Jurnalul 2",
+        "autor": "Alan Dean Foster",
+        "colectie": "Star Trek",
+        "editura": "Cristian Plus",
+        "locatie": "Biblioteca TV"
+    },
+    {
+        "id": 907,
+        "titlu": "Turnul randunicii",
+        "autor": "Andrzej Sapkowski",
+        "colectie": "Witcher vol 6",
+        "editura": "Armada",
+        "locatie": "Biblioteca camera stanga jos"
+    }
+]
